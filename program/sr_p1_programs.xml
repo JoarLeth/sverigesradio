@@ -1,0 +1,1205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sr>
+  <copyright>Copyright Sveriges Radio 2014. All rights reserved.</copyright>
+  <programs>
+    <program id="407" name="Vetenskapsradion Historia">
+      <description>Om allt från runristningsgillen till våldtäktspolitik, från 1700-talsskorpor till historiska dataspel. Vi är där historien är, snart sagt överallt, eftersom allt ju har sin egen historia.</description>
+      <programcategory id="12" name="Vetenskap/Miljö"/>
+      <payoff>Programmet om historia och arkeologi</payoff>
+      <broadcastinfo>Torsdagar kl 13.35, repris sön kl 18.35 och lör kl 01.02 </broadcastinfo>
+      <email>historia@sverigesradio.se</email>
+      <phone/>
+      <programurl>http://sverigesradio.se/sida/default.aspx?programid=407</programurl>
+      <programimage>http://sverigesradio.se/diverse/appdata/isidor/images/news_images/407/2216423_512_512.jpg</programimage>
+      <socialimage>http://sverigesradio.se/diverse/appdata/isidor/images/news_images/407/2216423_512_512.jpg</socialimage>
+      <channel id="132" name="P1"/>
+      <archived>false</archived>
+      <hasondemand>true</hasondemand>
+      <haspod>true</haspod>
+    </program>
+    <program id="411" name="Språket">
+      <description>Om hur språket används och förändras, om språkvård och om hur språk och samhälle ömsesidigt påverkar varandra. Här kan du som lyssnare vara med och ställa dina frågor om språk.</description>
+      <programcategory id="12" name="Vetenskap/Miljö"/>
+      <payoff>Med Anna Lena Ringarp och Lars-Gunnar Andersson</payoff>
+      <broadcastinfo>Tis kl 13.35, repris ons kl 19.03 och sön kl 07.05. Språkbiten lör kl 08.50</broadcastinfo>
+      <email>spraket@sverigesradio.se</email>
+      <phone/>
+      <programurl>http://sverigesradio.se/sida/default.aspx?programid=411</programurl>
+      <programimage>http://sverigesradio.se/diverse/appdata/isidor/images/news_images/411/3047556_512_512.jpg</programimage>
+      <socialimage>http://sverigesradio.se/diverse/appdata/isidor/images/news_images/411/3047556_512_512.jpg</socialimage>
+      <channel id="132" name="P1"/>
+      <archived>false</archived>
+      <hasondemand>true</hasondemand>
+      <haspod>true</haspod>
+    </program>
+    <program id="412" name="Vetandets värld">
+      <description>Om vetenskap, forskningsrön och ny teknik som förändrar vår värld. Varje vardag ger programmet fördjupning om vetenskap. Det kan handla om allt från skalbaggar till det senaste inom HIV-forskningen.</description>
+      <programcategory id="12" name="Vetenskap/Miljö"/>
+      <payoff/>
+      <broadcastinfo>P1 varje vardag kl 12.10, med repris kl 23.07</broadcastinfo>
+      <email>vet@sr.se</email>
+      <phone/>
+      <programurl>http://sverigesradio.se/sida/default.aspx?programid=412</programurl>
+      <programimage>http://sverigesradio.se/diverse/appdata/isidor/images/news_images/412/2211922_512_512.jpg</programimage>
+      <socialimage>http://sverigesradio.se/diverse/appdata/isidor/images/news_images/412/2211922_512_512.jpg</socialimage>
+      <channel id="132" name="P1"/>
+      <archived>false</archived>
+      <hasondemand>true</hasondemand>
+      <haspod>true</haspod>
+    </program>
+    <program id="415" name="Vetenskapsradions veckomagasin">
+      <description>Sammanfattningar av vetenskapsnyheter, aktuella reportage, fördjupningar och analyser av viktiga händelser från veckan som gått.</description>
+      <programcategory id="12" name="Vetenskap/Miljö"/>
+      <payoff/>
+      <broadcastinfo>Fredagar kl 13.35, repris sön kl 07.30</broadcastinfo>
+      <email>vet@sr.se</email>
+      <phone/>
+      <programurl>http://sverigesradio.se/sida/default.aspx?programid=415</programurl>
+      <programimage>http://sverigesradio.se/diverse/appdata/isidor/images/news_images/415/2211955_512_512.jpg</programimage>
+      <socialimage>http://sverigesradio.se/diverse/appdata/isidor/images/news_images/415/2211955_512_512.jpg</socialimage>
+      <channel id="132" name="P1"/>
+      <archived>false</archived>
+      <hasondemand>true</hasondemand>
+      <haspod>true</haspod>
+    </program>
+    <program id="416" name="Människor och tro">
+      <description>Aktualitetsmagasin med livsåskådningsperspektiv. Detta program är för dig som vill höra mer om olika religioner och hur de påverkar vår vardag och genomsyrar vårt samhälle, globalt som lokalt.</description>
+      <programcategory id="7" name="Samhälle"/>
+      <payoff>I skärningspunkten mellan religion och politik   </payoff>
+      <broadcastinfo>Torsdagar kl 14.03 med repris lördagar 17.00</broadcastinfo>
+      <email>mot@sverigesradio.se</email>
+      <phone/>
+      <programurl>http://sverigesradio.se/sida/default.aspx?programid=416</programurl>
+      <programimage>http://sverigesradio.se/diverse/appdata/isidor/images/news_images/416/2984385_512_512.jpg</programimage>
+      <socialimage>http://sverigesradio.se/diverse/appdata/isidor/images/news_images/416/2984385_512_512.jpg</socialimage>
+      <channel id="132" name="P1"/>
+      <archived>false</archived>
+      <hasondemand>true</hasondemand>
+      <haspod>true</haspod>
+    </program>
+    <program id="438" name="Godmorgon, världen!">
+      <description>P1:s veckomagasin som ger lyssnaren den kompletta tidningslösa söndagsmorgonen. Du blir serverad hela veckans betraktelser, inrikes som utrikes, analyser av den kommande veckan, trender, satir och kåserier.</description>
+      <programcategory id="68" name="Nyheter"/>
+      <payoff/>
+      <broadcastinfo>P1 söndagar kl 09.03, repris kl 22.05</broadcastinfo>
+      <email>gmv@sverigesradio.se</email>
+      <phone/>
+      <programurl>http://sverigesradio.se/sida/default.aspx?programid=438</programurl>
+      <programimage>http://sverigesradio.se/diverse/appdata/isidor/images/news_images/438/3060990_512_512.jpg</programimage>
+      <socialimage>http://sverigesradio.se/diverse/appdata/isidor/images/news_images/438/3060990_512_512.jpg</socialimage>
+      <channel id="132" name="P1"/>
+      <archived>false</archived>
+      <hasondemand>true</hasondemand>
+      <haspod>true</haspod>
+    </program>
+    <program id="499" name="Romanpriset">
+      <description>Lyssnarjuryn belönar en framstående svensk roman från det gångna året.</description>
+      <programcategory id="3" name="Kultur/Nöje"/>
+      <payoff/>
+      <broadcastinfo/>
+      <email>romanpriset@sverigesradio.se</email>
+      <phone/>
+      <programurl>http://sverigesradio.se/sida/default.aspx?programid=499</programurl>
+      <programimage>http://sverigesradio.se/diverse/appdata/isidor/images/news_images/499/2448455_512_512.jpg</programimage>
+      <socialimage>http://sverigesradio.se/diverse/appdata/isidor/images/news_images/499/2448455_512_512.jpg</socialimage>
+      <channel id="132" name="P1"/>
+      <archived>false</archived>
+      <hasondemand>true</hasondemand>
+      <haspod>true</haspod>
+    </program>
+    <program id="503" name="OBS">
+      <description>I OBS diskuteras de svenska och internationella strömningarna i kultur- och samhällsdebatt. Obs bevakar svenska tidsskrifter och utländsk debattlitteratur och varje vecka avslutas med en internationell kultur- och tidskriftskrönika.</description>
+      <programcategory id="7" name="Samhälle"/>
+      <payoff>Kultur- och idédebatt </payoff>
+      <broadcastinfo>P1 vardagar kl 13.15 repris 20.45, OBS i veckan lör kl 10.55, repris sön 21.35</broadcastinfo>
+      <email>obs@sverigesradio.se</email>
+      <phone/>
+      <programurl>http://sverigesradio.se/sida/default.aspx?programid=503</programurl>
+      <programimage>http://sverigesradio.se/diverse/appdata/isidor/images/news_images/503/2549606_512_512.jpg</programimage>
+      <socialimage>http://sverigesradio.se/diverse/appdata/isidor/images/news_images/503/2549606_512_512.jpg</socialimage>
+      <channel id="132" name="P1"/>
+      <archived>false</archived>
+      <hasondemand>true</hasondemand>
+      <haspod>true</haspod>
+    </program>
+    <program id="516" name="Spanarna">
+      <description>I Spanarna hör du en panel med tre ovanligt skarpsynta personligheter som försöker avläsa tendenserna i det vardagliga bruset, för att sedan presentera sina framtidvisioner för dig. Allt, högt som lågt blandas i skön förening.</description>
+      <programcategory id="3" name="Kultur/Nöje"/>
+      <payoff>Med Ingvar Storm</payoff>
+      <broadcastinfo>Fredagar kl 15.04, repris lördagar kl 10.03</broadcastinfo>
+      <email>spanarna@sverigesradio.se</email>
+      <phone/>
+      <programurl>http://sverigesradio.se/sida/default.aspx?programid=516</programurl>
+      <programimage>http://sverigesradio.se/diverse/appdata/isidor/images/news_images/516/1935779_512_512.jpg</programimage>
+      <socialimage>http://sverigesradio.se/diverse/appdata/isidor/images/news_images/516/1935779_512_512.jpg</socialimage>
+      <channel id="132" name="P1"/>
+      <archived>false</archived>
+      <hasondemand>true</hasondemand>
+      <haspod>true</haspod>
+    </program>
+    <program id="767" name="Kulturradion special">
+      <description>Specialprogram och miniserier om kultur i alla dess former.</description>
+      <programcategory id="3" name="Kultur/Nöje"/>
+      <payoff/>
+      <broadcastinfo>Återkommer då och då</broadcastinfo>
+      <email>kulturradion@sverigesradio.se</email>
+      <phone/>
+      <programurl>http://sverigesradio.se/sida/default.aspx?programid=767</programurl>
+      <programimage>http://sverigesradio.se/diverse/appdata/isidor/images/news_images/767/2606458_512_512.jpg</programimage>
+      <socialimage>http://sverigesradio.se/diverse/appdata/isidor/images/news_images/767/2606458_512_512.jpg</socialimage>
+      <channel id="132" name="P1"/>
+      <archived>false</archived>
+      <hasondemand>true</hasondemand>
+      <haspod>true</haspod>
+    </program>
+    <program id="787" name="Barnen">
+      <description>Här får barnen plats i samhällsdebatten och du som lyssnare får höra livet ur deras perspektiv för att se hela samhället tydligt och skarpt. </description>
+      <programcategory id="7" name="Samhälle"/>
+      <payoff>Barnens röst i samhällsdebatten</payoff>
+      <broadcastinfo>Fredagar kl 11.03, repris söndagar kl 19.03</broadcastinfo>
+      <email>barnen@sverigesradio.se</email>
+      <phone/>
+      <programurl>http://sverigesradio.se/sida/default.aspx?programid=787</programurl>
+      <programimage>http://sverigesradio.se/diverse/appdata/isidor/images/news_images/787/3040086_512_512.jpg</programimage>
+      <socialimage>http://sverigesradio.se/diverse/appdata/isidor/images/news_images/787/3040086_512_512.jpg</socialimage>
+      <channel id="132" name="P1"/>
+      <archived>false</archived>
+      <hasondemand>true</hasondemand>
+      <haspod>true</haspod>
+    </program>
+    <program id="793" name="Filosofiska rummet">
+      <description>Ett reflekterande samtalsprogram där gästerna ges tid att utveckla sina resonemang. Det här är för dig som är intresserad av klassiskt filosofiska ämnen såväl som vår tids mest brännande etiska, moraliska och politiska dilemman.</description>
+      <programcategory id="4" name="Livsåskådning"/>
+      <payoff>40 minuter om människan, moralen och existensen</payoff>
+      <broadcastinfo>Söndagar kl 17.00, repris fre kl 21.03</broadcastinfo>
+      <email>filosofiskarummet@sverigesradio.se</email>
+      <phone/>
+      <programurl>http://sverigesradio.se/sida/default.aspx?programid=793</programurl>
+      <programimage>http://sverigesradio.se/diverse/appdata/isidor/images/news_images/793/1935817_512_512.jpg</programimage>
+      <socialimage>http://sverigesradio.se/diverse/appdata/isidor/images/news_images/793/1935817_512_512.jpg</socialimage>
+      <channel id="132" name="P1"/>
+      <archived>false</archived>
+      <hasondemand>true</hasondemand>
+      <haspod>true</haspod>
+    </program>
+    <program id="909" name="P1 Dokumentär">
+      <description>I P1 Dokumentär hör du berättelser från verkligheten. Här gestaltas samtiden genom enskilda levnadsöden, platser och miljöer. Vårt uppdrag är att både skildra det som rör sig i tiden och under ytan.</description>
+      <programcategory id="82" name="Dokumentär"/>
+      <payoff/>
+      <broadcastinfo>Söndag kl 15.03 med repris lördag kl 23.07 och natt mot måndag kl 00.02</broadcastinfo>
+      <email>dokred@sr.se</email>
+      <phone/>
+      <programurl>http://sverigesradio.se/sida/default.aspx?programid=909</programurl>
+      <programimage>http://sverigesradio.se/diverse/appdata/isidor/images/news_images/909/2292330_512_512.jpg</programimage>
+      <socialimage>http://sverigesradio.se/diverse/appdata/isidor/images/news_images/909/2292330_512_512.jpg</socialimage>
+      <channel id="132" name="P1"/>
+      <archived>false</archived>
+      <hasondemand>true</hasondemand>
+      <haspod>true</haspod>
+    </program>
+    <program id="945" name="Gudstjänsten">
+      <description>Direktsändning från någon kyrka i Sverige. Programmet sänder också gudstjänster som innehåller möten mellan religioner. Så arbetar många kyrkor runt om i Sverige och i Europa för att befrämja religionsdialog.</description>
+      <programcategory id="5" name="Musik"/>
+      <payoff/>
+      <broadcastinfo>P1 söndag kl 11.03 och alla större helger</broadcastinfo>
+      <email>liv@sverigesradio.se</email>
+      <phone/>
+      <programurl>http://sverigesradio.se/sida/default.aspx?programid=945</programurl>
+      <programimage>http://sverigesradio.se/diverse/appdata/isidor/images/news_images/945/2114423_512_512.jpg</programimage>
+      <socialimage>http://sverigesradio.se/diverse/appdata/isidor/images/news_images/945/2114423_512_512.jpg</socialimage>
+      <channel id="132" name="P1"/>
+      <archived>false</archived>
+      <hasondemand>true</hasondemand>
+      <haspod>false</haspod>
+    </program>
+    <program id="950" name="Meny">
+      <description>Sveriges Radios matprogram med inspirerande kockar och ett stort receptarkiv. Just nu sänder Tomas Tengby från Göteborg.</description>
+      <programcategory id="14" name="Livsstil"/>
+      <payoff>Med Tomas Tengby</payoff>
+      <broadcastinfo>Torsdag kl 10.03, repris lördag kl 00.02 och kl 14.03</broadcastinfo>
+      <email>meny@sverigesradio.se</email>
+      <phone/>
+      <programurl>http://sverigesradio.se/sida/default.aspx?programid=950</programurl>
+      <programimage>http://sverigesradio.se/diverse/appdata/isidor/images/news_images/950/2959497_512_512.jpg</programimage>
+      <socialimage>http://sverigesradio.se/diverse/appdata/isidor/images/news_images/950/2959497_512_512.jpg</socialimage>
+      <channel id="132" name="P1"/>
+      <archived>false</archived>
+      <hasondemand>true</hasondemand>
+      <haspod>true</haspod>
+    </program>
+    <program id="965" name="Radioteatern">
+      <description>I Radioteaterns premiärer bjuds du till första parkett med väl valda kvalitativa teaterföreställningar som biljetterna är slutsålda till sedan länge tillbaka. Sätt dig till rätta och njut.</description>
+      <programcategory id="3" name="Kultur/Nöje"/>
+      <payoff/>
+      <broadcastinfo>Fre kl 19.03 med repris sön kl 20.03, lör kl 13.30 med repris mån kl 19.03 </broadcastinfo>
+      <email>teater@sr.se</email>
+      <phone/>
+      <programurl>http://sverigesradio.se/sida/default.aspx?programid=965</programurl>
+      <programimage>http://sverigesradio.se/diverse/appdata/isidor/images/news_images/965/2379267_512_512.jpg</programimage>
+      <socialimage>http://sverigesradio.se/diverse/appdata/isidor/images/news_images/965/2379267_512_512.jpg</socialimage>
+      <channel id="132" name="P1"/>
+      <archived>false</archived>
+      <hasondemand>true</hasondemand>
+      <haspod>true</haspod>
+    </program>
+    <program id="1027" name="Naturmorgon">
+      <description>Tar upp alla aspekter av naturen, från njutning till forskning. Här kan du som lyssnare få följa med ut i det gröna för att få upplevelser och svar på alla dina frågor du har om naturen, i stan likväl som på landet.</description>
+      <programcategory id="12" name="Vetenskap/Miljö"/>
+      <payoff>Direkt från naturen - i Sverige och världen</payoff>
+      <broadcastinfo>P1 lördagar kl 06.14, kortrepris kl 21.03</broadcastinfo>
+      <email>naturmorgon@sverigesradio.se</email>
+      <phone/>
+      <programurl>http://sverigesradio.se/sida/default.aspx?programid=1027</programurl>
+      <programimage>http://sverigesradio.se/diverse/appdata/isidor/images/news_images/1027/2938002_512_512.jpg</programimage>
+      <socialimage>http://sverigesradio.se/diverse/appdata/isidor/images/news_images/1027/2938002_512_512.jpg</socialimage>
+      <channel id="132" name="P1"/>
+      <archived>false</archived>
+      <hasondemand>true</hasondemand>
+      <haspod>true</haspod>
+    </program>
+    <program id="1057" name="Novellen">
+      <description>I Novellen hör du som lyssnare aktuella noveller av kända som mindre kända författare, upplästa av dramatiker och skådespelare. Ett slags sagoberättande för vuxna.</description>
+      <programcategory id="3" name="Kultur/Nöje"/>
+      <payoff/>
+      <broadcastinfo/>
+      <email/>
+      <phone/>
+      <programurl>http://sverigesradio.se/sida/default.aspx?programid=1111</programurl>
+      <programimage>http://sverigesradio.se/diverse/appdata/isidor/images/news_images/132/2186746_512_512.jpg</programimage>
+      <socialimage>http://sverigesradio.se/diverse/appdata/isidor/images/news_images/132/2186746_512_512.jpg</socialimage>
+      <channel id="132" name="P1"/>
+      <archived>false</archived>
+      <hasondemand>true</hasondemand>
+      <haspod>false</haspod>
+    </program>
+    <program id="1111" name="Radioföljetongen/Novellen">
+      <description>Kända skådespelare läser upp allsköns intressanta böcker som man kan lyssna på när man själv inte har tid att läsa. Radioföljetongen är för dig som visste eller inte visste att du var intresserad av att höra just den boken.</description>
+      <programcategory id="3" name="Kultur/Nöje"/>
+      <payoff>Sveriges bästa högläsning. Vi läser - du lyssnar!</payoff>
+      <broadcastinfo>Måndag-fredag kl 11.35 med repris mån-tors och lördag kl 19.35</broadcastinfo>
+      <email>radiofoljetongen@sr.se</email>
+      <phone/>
+      <programurl>http://sverigesradio.se/sida/default.aspx?programid=1111</programurl>
+      <programimage>http://sverigesradio.se/diverse/appdata/isidor/images/news_images/1111/2215946_512_512.jpg</programimage>
+      <socialimage>http://sverigesradio.se/diverse/appdata/isidor/images/news_images/1111/2215946_512_512.jpg</socialimage>
+      <channel id="132" name="P1"/>
+      <archived>false</archived>
+      <hasondemand>true</hasondemand>
+      <haspod>false</haspod>
+    </program>
+    <program id="1120" name="Ring P1 - 099-510 10">
+      <description>Ring P1 är yttrandefrihet i sin riktiga mening. Det är lyssnarnas eget debattprogram där man ringer in och skapar diskussioner om stort och smått. </description>
+      <programcategory id="7" name="Samhälle"/>
+      <payoff/>
+      <broadcastinfo>P1 vardagar kl 09.30, repris i kortversion kl 20.35 och kl 05.35</broadcastinfo>
+      <email>ringp1@sverigesradio.se</email>
+      <phone/>
+      <programurl>http://sverigesradio.se/sida/default.aspx?programid=1120</programurl>
+      <programimage>http://sverigesradio.se/diverse/appdata/isidor/images/news_images/1120/2027626_512_512.jpg</programimage>
+      <socialimage>http://sverigesradio.se/diverse/appdata/isidor/images/news_images/1120/2027626_512_512.jpg</socialimage>
+      <channel id="132" name="P1"/>
+      <archived>false</archived>
+      <hasondemand>true</hasondemand>
+      <haspod>true</haspod>
+    </program>
+    <program id="1165" name="Tankar för dagen">
+      <description>Det tar bara några minuter - stanna upp ett tag och lyssna! Tankar för dagen vill ge en stunds eftertanke mitt i morgonens nyhetsflöde. Det kan vara en personlig betraktelse eller tankar kring händelser i den mindre, privata.</description>
+      <programcategory id="4" name="Livsåskådning"/>
+      <payoff>En stunds eftertanke i nyhetsflödet</payoff>
+      <broadcastinfo>P1 måndag-fredag kl 06.50, repris måndag-fredag kl 21.45</broadcastinfo>
+      <email>tankar@sverigesradio.se</email>
+      <phone/>
+      <programurl>http://sverigesradio.se/sida/default.aspx?programid=1165</programurl>
+      <programimage>http://sverigesradio.se/diverse/appdata/isidor/images/news_images/1165/2326022_512_512.jpg</programimage>
+      <socialimage>http://sverigesradio.se/diverse/appdata/isidor/images/news_images/1165/2326022_512_512.jpg</socialimage>
+      <channel id="132" name="P1"/>
+      <archived>false</archived>
+      <hasondemand>true</hasondemand>
+      <haspod>true</haspod>
+    </program>
+    <program id="1272" name="Kropp &amp; Själ">
+      <description>P1:s hälsojournalistiska program. Allt från träning till medicin och sömnproblem tas upp med ett kritiskt öga på de rådande hälsotrenderna. Personliga livsöden varvas med de senaste forskningsrönen.</description>
+      <programcategory id="12" name="Vetenskap/Miljö"/>
+      <payoff>Om livet, hälsan och vetenskapen</payoff>
+      <broadcastinfo>P1 tisdag kl 10.03, repris natt mot torsdag kl 00.03 och lördag kl 15.03</broadcastinfo>
+      <email>kropp@sverigesradio.se</email>
+      <phone/>
+      <programurl>http://sverigesradio.se/sida/default.aspx?programid=1272</programurl>
+      <programimage>http://sverigesradio.se/diverse/appdata/isidor/images/news_images/1272/1935858_512_512.jpg</programimage>
+      <socialimage>http://sverigesradio.se/diverse/appdata/isidor/images/news_images/1272/1935858_512_512.jpg</socialimage>
+      <channel id="132" name="P1"/>
+      <archived>false</archived>
+      <hasondemand>true</hasondemand>
+      <haspod>true</haspod>
+    </program>
+    <program id="1300" name="Konflikt">
+      <description>Kultur och samhällsprogram med samtal och reportage som rör sig i gränslandet mellan internationell debatt och svensk vardag.</description>
+      <programcategory id="7" name="Samhälle"/>
+      <payoff/>
+      <broadcastinfo>Lördagar kl 09.03, repris kl 22.05</broadcastinfo>
+      <email>konflikt@sverigesradio.se</email>
+      <phone/>
+      <programurl>http://sverigesradio.se/sida/default.aspx?programid=1300</programurl>
+      <programimage>http://sverigesradio.se/diverse/appdata/isidor/images/news_images/1300/2453881_512_512.jpg</programimage>
+      <socialimage>http://sverigesradio.se/diverse/appdata/isidor/images/news_images/1300/2453881_512_512.jpg</socialimage>
+      <channel id="132" name="P1"/>
+      <archived>false</archived>
+      <hasondemand>true</hasondemand>
+      <haspod>true</haspod>
+    </program>
+    <program id="1302" name="Vetenskapsradion Forum">
+      <description>Programmet om humanistisk och samhällsvetenskaplig forskning. Du som lyssnare får höra om forskning om människan som kultur- och samhällsvarelse.</description>
+      <programcategory id="12" name="Vetenskap/Miljö"/>
+      <payoff>Programmet om humanistisk och samhällsvetenskaplig forskning</payoff>
+      <broadcastinfo>Måndagar kl 13.35, repris tis kl 19.03 och lör 18.15</broadcastinfo>
+      <email>forum@sverigesradio.se</email>
+      <phone/>
+      <programurl>http://sverigesradio.se/sida/default.aspx?programid=1302</programurl>
+      <programimage>http://sverigesradio.se/diverse/appdata/isidor/images/news_images/1302/2216484_512_512.jpg</programimage>
+      <socialimage>http://sverigesradio.se/diverse/appdata/isidor/images/news_images/1302/2216484_512_512.jpg</socialimage>
+      <channel id="132" name="P1"/>
+      <archived>false</archived>
+      <hasondemand>true</hasondemand>
+      <haspod>true</haspod>
+    </program>
+    <program id="1307" name="På minuten">
+      <description>Radiolek där du får höra fyra berättarglada panelmedlemmar som får i uppgift att under en minut på ett bestämt tema prata utan att tveka, upprepa sig eller lämna ämnet eller lokalen.</description>
+      <programcategory id="3" name="Kultur/Nöje"/>
+      <payoff>Med Ingvar Storm</payoff>
+      <broadcastinfo>Lördagar kl 16.03, repris söndag kl 13.30 och måndag kl 23.30</broadcastinfo>
+      <email>paminuten@sr.se</email>
+      <phone/>
+      <programurl>http://sverigesradio.se/sida/default.aspx?programid=1307</programurl>
+      <programimage>http://sverigesradio.se/diverse/appdata/isidor/images/news_images/1307/2727648_512_512.jpg</programimage>
+      <socialimage>http://sverigesradio.se/diverse/appdata/isidor/images/news_images/1307/2727648_512_512.jpg</socialimage>
+      <channel id="132" name="P1"/>
+      <archived>false</archived>
+      <hasondemand>true</hasondemand>
+      <haspod>true</haspod>
+    </program>
+    <program id="1316" name="Kaliber">
+      <description>P1:s program för grävande journalistik. Det är här du hör det som engagerar dig, upprör dig, gör dig ledsen eller glad och vad som senare blir nyheter i andra medier.</description>
+      <programcategory id="7" name="Samhälle"/>
+      <payoff>P1:s program för undersökande journalistik</payoff>
+      <broadcastinfo>Söndagar kl 12.00, repris mån kl 10.03 och tis 00.30</broadcastinfo>
+      <email>kaliber@sverigesradio.se</email>
+      <phone/>
+      <programurl>http://sverigesradio.se/sida/default.aspx?programid=1316</programurl>
+      <programimage>http://sverigesradio.se/diverse/appdata/isidor/images/news_images/1316/2254463_512_512.jpg</programimage>
+      <socialimage>http://sverigesradio.se/diverse/appdata/isidor/images/news_images/1316/2254463_512_512.jpg</socialimage>
+      <channel id="132" name="P1"/>
+      <archived>false</archived>
+      <hasondemand>true</hasondemand>
+      <haspod>true</haspod>
+    </program>
+    <program id="1320" name="Morgonandakten">
+      <description>Du får styrka åt din start på dagen. I programmet hörs den aktuella tidens bibeltext läsas upp och till det spelas passande musik.</description>
+      <programcategory id="5" name="Musik"/>
+      <payoff>Kristna, judiska och muslimska andakter</payoff>
+      <broadcastinfo>P1 måndag-fredag kl 05.45</broadcastinfo>
+      <email>andakt@sverigesradio.se</email>
+      <phone/>
+      <programurl>http://sverigesradio.se/sida/default.aspx?programid=1320</programurl>
+      <programimage>http://sverigesradio.se/diverse/appdata/isidor/images/news_images/1320/2954520_512_512.jpg</programimage>
+      <socialimage>http://sverigesradio.se/diverse/appdata/isidor/images/news_images/1320/2954520_512_512.jpg</socialimage>
+      <channel id="132" name="P1"/>
+      <archived>false</archived>
+      <hasondemand>true</hasondemand>
+      <haspod>true</haspod>
+    </program>
+    <program id="1610" name="Vid dagens början">
+      <description>Om existens och religion, på ett personligt sätt</description>
+      <programcategory id="4" name="Livsåskådning"/>
+      <payoff>En personlig reflektion om religion och existens</payoff>
+      <broadcastinfo>P1 lördagar kl 06.03, repris söndagar kl 06.45</broadcastinfo>
+      <email>dagensborjan@sverigesradio.se</email>
+      <phone/>
+      <programurl>http://sverigesradio.se/sida/default.aspx?programid=1610</programurl>
+      <programimage>http://sverigesradio.se/diverse/appdata/isidor/images/news_images/1610/2196759_512_512.jpg</programimage>
+      <socialimage>http://sverigesradio.se/diverse/appdata/isidor/images/news_images/1610/2196759_512_512.jpg</socialimage>
+      <channel id="132" name="P1"/>
+      <archived>false</archived>
+      <hasondemand>true</hasondemand>
+      <haspod>true</haspod>
+    </program>
+    <program id="1611" name="Vid dagens slut">
+      <description>Fem personliga minuter om livet </description>
+      <programcategory id="4" name="Livsåskådning"/>
+      <payoff>Fem personliga minuter om livet</payoff>
+      <broadcastinfo>P1 lördag-söndag kl 21.45</broadcastinfo>
+      <email>dagensslut@sverigesradio.se</email>
+      <phone/>
+      <programurl>http://sverigesradio.se/sida/default.aspx?programid=1611</programurl>
+      <programimage>http://sverigesradio.se/diverse/appdata/isidor/images/news_images/1611/2333654_512_512.jpg</programimage>
+      <socialimage>http://sverigesradio.se/diverse/appdata/isidor/images/news_images/1611/2333654_512_512.jpg</socialimage>
+      <channel id="132" name="P1"/>
+      <archived>false</archived>
+      <hasondemand>true</hasondemand>
+      <haspod>true</haspod>
+    </program>
+    <program id="1637" name="Studio Ett">
+      <description>Fördjupar dagens stora händelser i Sverige och världen genom närgångna samtal, debatt, reportage och analyser.</description>
+      <programcategory id="68" name="Nyheter"/>
+      <payoff>Fördjupad nyhetsrapportering i P1 - Vinnare av Stora Radiopriset 2011</payoff>
+      <broadcastinfo>Vardagar kl 16.00-16.45 och kl 17.00-17.45, repris kl 22.12</broadcastinfo>
+      <email>studioett@sverigesradio.se</email>
+      <phone/>
+      <programurl>http://sverigesradio.se/sida/default.aspx?programid=1637</programurl>
+      <programimage>http://sverigesradio.se/diverse/appdata/isidor/images/news_images/1637/2991311_512_512.jpg</programimage>
+      <socialimage>http://sverigesradio.se/diverse/appdata/isidor/images/news_images/1637/2991311_512_512.jpg</socialimage>
+      <channel id="132" name="P1"/>
+      <archived>false</archived>
+      <hasondemand>true</hasondemand>
+      <haspod>true</haspod>
+    </program>
+    <program id="1650" name="P1-morgon">
+      <description>P1-morgon bjuder på de senaste nyheterna, men vi nöjer oss inte där. Vi tar nyheterna djupare.</description>
+      <programcategory id="68" name="Nyheter"/>
+      <payoff>Morgonmagasin med nyheter</payoff>
+      <broadcastinfo>P1 måndag-fredag kl 05.30-9.30</broadcastinfo>
+      <email>p1morgon@sverigesradio.se</email>
+      <phone/>
+      <programurl>http://sverigesradio.se/sida/default.aspx?programid=1650</programurl>
+      <programimage>http://sverigesradio.se/diverse/appdata/isidor/images/news_images/1650/2672215_512_512.jpg</programimage>
+      <socialimage>http://sverigesradio.se/diverse/appdata/isidor/images/news_images/1650/2672215_512_512.jpg</socialimage>
+      <channel id="132" name="P1"/>
+      <archived>false</archived>
+      <hasondemand>true</hasondemand>
+      <haspod>true</haspod>
+    </program>
+    <program id="1667" name="Odla med P1">
+      <description>För dig som är fritidsodlare och som vill gräva lite djupare i kompost och rabatter för att lära dig mer om odling. Här får du experttips, goda råd och en inblick i odlandets olika trender och möjligheter.</description>
+      <programcategory id="12" name="Vetenskap/Miljö"/>
+      <payoff/>
+      <broadcastinfo>Programmet sänds inte just nu</broadcastinfo>
+      <email>odla@sr.se  </email>
+      <phone/>
+      <programurl>http://sverigesradio.se/sida/default.aspx?programid=1667</programurl>
+      <programimage>http://sverigesradio.se/diverse/appdata/isidor/images/news_images/1667/2193473_512_512.jpg</programimage>
+      <socialimage>http://sverigesradio.se/diverse/appdata/isidor/images/news_images/1667/2193473_512_512.jpg</socialimage>
+      <channel id="132" name="P1"/>
+      <archived>false</archived>
+      <hasondemand>false</hasondemand>
+      <haspod>true</haspod>
+    </program>
+    <program id="2068" name="Släktband">
+      <description>Programmet som vill visa att släktforskning inte bara är ett vackert släktträd utan kan ge dig en helt annan bild från till exempel sjukhusjournaler, lärares hemliga skolrapporter och avslöjande skilsmässobrev.</description>
+      <programcategory id="3" name="Kultur/Nöje"/>
+      <payoff/>
+      <broadcastinfo>Åter 9 dec</broadcastinfo>
+      <email>slaktband@sverigesradio.se</email>
+      <phone/>
+      <programurl>http://sverigesradio.se/sida/default.aspx?programid=2068</programurl>
+      <programimage>http://sverigesradio.se/diverse/appdata/isidor/images/news_images/2068/2185628_512_512.jpg</programimage>
+      <socialimage>http://sverigesradio.se/diverse/appdata/isidor/images/news_images/2068/2185628_512_512.jpg</socialimage>
+      <channel id="132" name="P1"/>
+      <archived>false</archived>
+      <hasondemand>true</hasondemand>
+      <haspod>true</haspod>
+    </program>
+    <program id="2071" name="Sommar &amp; Vinter i P1">
+      <description>1,5 timme genomtänkt och begåvad radio som roar och berör. Du möter intressanta människor som berättar om sina upplevelser och spelar sin favoritmusik.</description>
+      <programcategory id="3" name="Kultur/Nöje"/>
+      <payoff/>
+      <broadcastinfo>Vinter i P1 sänds juldagen 2013-nyårsdagen 2014 kl 13.00-14.27. Repris: vardag kl 22.05. Sommar i P1 är tillbaka på midsommardagen.</broadcastinfo>
+      <email>sommar@sverigesradio.se</email>
+      <phone/>
+      <programurl>http://sverigesradio.se/sida/default.aspx?programid=2071</programurl>
+      <programimage>http://sverigesradio.se/diverse/appdata/isidor/images/news_images/2071/2041451_512_512.jpg</programimage>
+      <socialimage>http://sverigesradio.se/diverse/appdata/isidor/images/news_images/2071/2041451_512_512.jpg</socialimage>
+      <channel id="132" name="P1"/>
+      <archived>false</archived>
+      <hasondemand>true</hasondemand>
+      <haspod>true</haspod>
+    </program>
+    <program id="2339" name="Helgsmål">
+      <description>Det gamla ordet helgsmål påminner om att helg kommer av helig tid. När klockorna ringde på lördagsaftonen signalerade de att arbetsveckan var slut och helgen stundade. Här får du pausen arbetsveckan behöver.</description>
+      <programcategory id="5" name="Musik"/>
+      <payoff>En stunds stillhet inför helgen</payoff>
+      <broadcastinfo>P1 lördagar kl 18.00</broadcastinfo>
+      <email>helgsmal@sverigesradio.se  </email>
+      <phone/>
+      <programurl>http://sverigesradio.se/sida/default.aspx?programid=2339</programurl>
+      <programimage>http://sverigesradio.se/diverse/appdata/isidor/images/news_images/2339/2325916_512_512.jpg</programimage>
+      <socialimage>http://sverigesradio.se/diverse/appdata/isidor/images/news_images/2339/2325916_512_512.jpg</socialimage>
+      <channel id="132" name="P1"/>
+      <archived>false</archived>
+      <hasondemand>true</hasondemand>
+      <haspod>false</haspod>
+    </program>
+    <program id="2447" name="Andliga sånger">
+      <description>De kända sångerna, psalmerna, de kända melodierna och texter att hämta kraft i. Ofta berättas det om sångers ursprung, eller om en textförfattares liv. Ny musik och händelser kring Andlig och Sakral Musik uppmärksammas också.</description>
+      <programcategory id="5" name="Musik"/>
+      <payoff>Psalmer, melodier och texter att hämta kraft i</payoff>
+      <broadcastinfo>P1 söndagar kl 06.03</broadcastinfo>
+      <email>andligasanger@sverigesradio.se</email>
+      <phone/>
+      <programurl>http://sverigesradio.se/sida/default.aspx?programid=2447</programurl>
+      <programimage>http://sverigesradio.se/diverse/appdata/isidor/images/news_images/2447/2113460_512_512.jpg</programimage>
+      <socialimage>http://sverigesradio.se/diverse/appdata/isidor/images/news_images/2447/2113460_512_512.jpg</socialimage>
+      <channel id="132" name="P1"/>
+      <archived>false</archived>
+      <hasondemand>true</hasondemand>
+      <haspod>false</haspod>
+    </program>
+    <program id="2699" name="Public Service">
+      <description>Satir varje vecka i Godmorgon världen</description>
+      <programcategory id="3" name="Kultur/Nöje"/>
+      <payoff>Satir i Godmorgon, världen!</payoff>
+      <broadcastinfo/>
+      <email>publicservice@sr.se</email>
+      <phone/>
+      <programurl>http://sverigesradio.se/sida/default.aspx?programid=2699</programurl>
+      <programimage>http://sverigesradio.se/diverse/appdata/isidor/images/news_images/2699/2937935_512_512.jpg</programimage>
+      <socialimage>http://sverigesradio.se/diverse/appdata/isidor/images/news_images/2699/2937935_512_512.jpg</socialimage>
+      <channel id="132" name="P1"/>
+      <archived>false</archived>
+      <hasondemand>false</hasondemand>
+      <haspod>true</haspod>
+    </program>
+    <program id="2702" name="P1 Specialprogram">
+      <description>Här samlar vi extrasändningar och helgprogram.</description>
+      <programcategory id="7" name="Samhälle"/>
+      <payoff>Extrasändningar och helgprogram</payoff>
+      <broadcastinfo/>
+      <email>webmaster.p1@sverigesradio.se</email>
+      <phone/>
+      <programurl>http://sverigesradio.se/sida/default.aspx?programid=2702</programurl>
+      <programimage>http://sverigesradio.se/diverse/appdata/isidor/images/news_images/2702/2876654_512_512.jpg</programimage>
+      <socialimage>http://sverigesradio.se/diverse/appdata/isidor/images/news_images/2702/2876654_512_512.jpg</socialimage>
+      <channel id="132" name="P1"/>
+      <archived>false</archived>
+      <hasondemand>true</hasondemand>
+      <haspod>true</haspod>
+    </program>
+    <program id="2778" name="Plånboken">
+      <description>Vi är din hjälpande röst i vardagsekonomin. Här blandas lyssnarnas frågor till våra experter med matnyttiga reportage. Varje vecka pratar vi om sånt som påverkar hushållsekonomin och oss som konsumenter. Vi gör ekonomijournalistik som alla förstår.</description>
+      <programcategory id="14" name="Livsstil"/>
+      <payoff>Med Björn Häger</payoff>
+      <broadcastinfo>Onsdag kl 10.03, repris fredag kl 00.02 och söndag kl 14.03</broadcastinfo>
+      <email>planboken@sverigesradio.se</email>
+      <phone/>
+      <programurl>http://sverigesradio.se/sida/default.aspx?programid=2778</programurl>
+      <programimage>http://sverigesradio.se/diverse/appdata/isidor/images/news_images/2778/3005448_512_512.jpg</programimage>
+      <socialimage>http://sverigesradio.se/diverse/appdata/isidor/images/news_images/2778/3005448_512_512.jpg</socialimage>
+      <channel id="132" name="P1"/>
+      <archived>false</archived>
+      <hasondemand>true</hasondemand>
+      <haspod>true</haspod>
+    </program>
+    <program id="2794" name="Stil">
+      <description>Alla bär vi kläder, och alla gör vi varje dag ett val – vad ska vi sätta på oss? Men vad ligger bakom valen av våra kläder och accessoarer? Om det handlar programmet Stil.</description>
+      <programcategory id="14" name="Livsstil"/>
+      <payoff>Gräver djupt i det ytliga</payoff>
+      <broadcastinfo>Fredagar kl 10.03, sön kl 08.05 och ons kl 00.02</broadcastinfo>
+      <email>stil@sverigesradio.se</email>
+      <phone/>
+      <programurl>http://sverigesradio.se/sida/default.aspx?programid=2794</programurl>
+      <programimage>http://sverigesradio.se/diverse/appdata/isidor/images/news_images/2794/2284132_512_512.jpg</programimage>
+      <socialimage>http://sverigesradio.se/diverse/appdata/isidor/images/news_images/2794/2284132_512_512.jpg</socialimage>
+      <channel id="132" name="P1"/>
+      <archived>false</archived>
+      <hasondemand>true</hasondemand>
+      <haspod>true</haspod>
+    </program>
+    <program id="2795" name="Medierna">
+      <description>Skildrar och granskar det som sker i medierna i vid bemärkelse, allt från tv-trender till hotad yttrandefrihet och nya medier på nätet. Här får du höra raka reportage och intervjuer som tar dig bakom kulisserna på medieredaktionerna.</description>
+      <programcategory id="7" name="Samhälle"/>
+      <payoff>– granskar medierna</payoff>
+      <broadcastinfo>P1 lördag kl 11.03, repris söndag kl 18.00</broadcastinfo>
+      <email>medierna@sverigesradio.se</email>
+      <phone/>
+      <programurl>http://sverigesradio.se/sida/default.aspx?programid=2795</programurl>
+      <programimage>http://sverigesradio.se/diverse/appdata/isidor/images/news_images/2795/2126434_512_512.jpg</programimage>
+      <socialimage>http://sverigesradio.se/diverse/appdata/isidor/images/news_images/2795/2126434_512_512.jpg</socialimage>
+      <channel id="132" name="P1"/>
+      <archived>false</archived>
+      <hasondemand>true</hasondemand>
+      <haspod>true</haspod>
+    </program>
+    <program id="2946" name="Radiokorrespondenterna">
+      <description>Hör det bästa från Sveriges Radios utrikesrapportering under den gångna veckan.</description>
+      <programcategory id="68" name="Nyheter"/>
+      <payoff>Hashtag: #radiokorr</payoff>
+      <broadcastinfo>Sön kl 12.55, mån kl 21.03</broadcastinfo>
+      <email>korrespondenterna@sr.se</email>
+      <phone/>
+      <programurl>http://sverigesradio.se/sida/default.aspx?programid=2946</programurl>
+      <programimage>http://sverigesradio.se/diverse/appdata/isidor/images/news_images/2946/2876666_512_512.jpg</programimage>
+      <socialimage>http://sverigesradio.se/diverse/appdata/isidor/images/news_images/2946/2876666_512_512.jpg</socialimage>
+      <channel id="132" name="P1"/>
+      <archived>false</archived>
+      <hasondemand>true</hasondemand>
+      <haspod>true</haspod>
+    </program>
+    <program id="3048" name="Nya Vågen">
+      <description>Debatt och kritik möts i kulturredaktionens direktsända diskussionsprogram.</description>
+      <programcategory id="3" name="Kultur/Nöje"/>
+      <payoff>Debatt och kritik</payoff>
+      <broadcastinfo>Tisdag kl 14.03 med repris onsdag kl 18.15</broadcastinfo>
+      <email>nyavagen@sverigesradio.se</email>
+      <phone/>
+      <programurl>http://sverigesradio.se/sida/default.aspx?programid=3048</programurl>
+      <programimage>http://sverigesradio.se/diverse/appdata/isidor/images/news_images/3048/2362462_512_512.jpg</programimage>
+      <socialimage>http://sverigesradio.se/diverse/appdata/isidor/images/news_images/3048/2362462_512_512.jpg</socialimage>
+      <channel id="132" name="P1"/>
+      <archived>false</archived>
+      <hasondemand>true</hasondemand>
+      <haspod>true</haspod>
+    </program>
+    <program id="3051" name="Kino">
+      <description>Veckomagasin om film, tv, dvd och internet. Detta är programmet för dig som vill nå längre och veta mer än genom de klassiska filmbevakningarna av biopremiärer. </description>
+      <programcategory id="3" name="Kultur/Nöje"/>
+      <payoff>Film är bäst i radio. Ett program från Kulturradion.</payoff>
+      <broadcastinfo>Fredagar kl 14.03, repris söndagar kl 16.03</broadcastinfo>
+      <email>kino@sverigesradio.se</email>
+      <phone/>
+      <programurl>http://sverigesradio.se/sida/default.aspx?programid=3051</programurl>
+      <programimage>http://sverigesradio.se/diverse/appdata/isidor/images/news_images/3051/1935362_512_512.jpg</programimage>
+      <socialimage>http://sverigesradio.se/diverse/appdata/isidor/images/news_images/3051/1935362_512_512.jpg</socialimage>
+      <channel id="132" name="P1"/>
+      <archived>false</archived>
+      <hasondemand>true</hasondemand>
+      <haspod>true</haspod>
+    </program>
+    <program id="3071" name="Ekots lördagsintervju">
+      <description>Makten till svars. Går personen bakom nyheterna inpå djupet.</description>
+      <programcategory id="68" name="Nyheter"/>
+      <payoff>Makten till svars</payoff>
+      <broadcastinfo>Lördagar kl 12.55, repris kl 19.03</broadcastinfo>
+      <email>monica.saarinen@sr.se</email>
+      <phone/>
+      <programurl>http://sverigesradio.se/sida/default.aspx?programid=3071</programurl>
+      <programimage>http://sverigesradio.se/diverse/appdata/isidor/images/news_images/3071/2782300_512_512.jpg</programimage>
+      <socialimage>http://sverigesradio.se/diverse/appdata/isidor/images/news_images/3071/2782300_512_512.jpg</socialimage>
+      <channel id="132" name="P1"/>
+      <archived>false</archived>
+      <hasondemand>true</hasondemand>
+      <haspod>true</haspod>
+    </program>
+    <program id="3109" name="Teologiska rummet">
+      <description>Teologiska frågor och debattämnen</description>
+      <programcategory id="4" name="Livsåskådning"/>
+      <payoff/>
+      <broadcastinfo>Återkommer då och då</broadcastinfo>
+      <email>teologiskarummet@sr.se</email>
+      <phone/>
+      <programurl>http://sverigesradio.se/sida/default.aspx?programid=3109</programurl>
+      <programimage>http://sverigesradio.se/diverse/appdata/isidor/images/news_images/3109/2937916_512_512.jpg</programimage>
+      <socialimage>http://sverigesradio.se/diverse/appdata/isidor/images/news_images/3109/2937916_512_512.jpg</socialimage>
+      <channel id="132" name="P1"/>
+      <archived>false</archived>
+      <hasondemand>true</hasondemand>
+      <haspod>true</haspod>
+    </program>
+    <program id="3143" name="Allvarligt talat">
+      <description>Per Olov Enquist svarar och samtalar om svåra och tankeväckande frågor</description>
+      <programcategory id="4" name="Livsåskådning"/>
+      <payoff>Per Olov Enquist svarar på livsfilosofiska frågor</payoff>
+      <broadcastinfo>Sändes sommaren 2013</broadcastinfo>
+      <email/>
+      <phone/>
+      <programurl>http://sverigesradio.se/sida/default.aspx?programid=3143</programurl>
+      <programimage>http://sverigesradio.se/diverse/appdata/isidor/images/news_images/3143/2858310_512_512.jpg</programimage>
+      <socialimage>http://sverigesradio.se/diverse/appdata/isidor/images/news_images/3143/2858310_512_512.jpg</socialimage>
+      <channel id="132" name="P1"/>
+      <archived>false</archived>
+      <hasondemand>true</hasondemand>
+      <haspod>true</haspod>
+    </program>
+    <program id="3315" name="Klassikern">
+      <description>Kulturredaktionen gör nedslag i konst-, film-, litteratur-, teater-, musik-, arkitektur- och TV-historien och lyfter fram kända verk. Vi utnämner också moderna klassiker.</description>
+      <programcategory id="3" name="Kultur/Nöje"/>
+      <payoff>Kulturradions nedslag i kulturhistorien</payoff>
+      <broadcastinfo>Onsdagar kl 14.40, repris torsdagar kl 18.40</broadcastinfo>
+      <email>cecilia.blomberg@sverigesradio.se</email>
+      <phone/>
+      <programurl>http://sverigesradio.se/sida/default.aspx?programid=3315</programurl>
+      <programimage>http://sverigesradio.se/diverse/appdata/isidor/images/news_images/3315/2335586_512_512.jpg</programimage>
+      <socialimage>http://sverigesradio.se/diverse/appdata/isidor/images/news_images/3315/2335586_512_512.jpg</socialimage>
+      <channel id="132" name="P1"/>
+      <archived>false</archived>
+      <hasondemand>true</hasondemand>
+      <haspod>true</haspod>
+    </program>
+    <program id="3345" name="Klotet">
+      <description>Radioprogrammet om miljöfrågor som också är en blogg. Från Vetenskapsradion.</description>
+      <programcategory id="12" name="Vetenskap/Miljö"/>
+      <payoff>En blogg och ett program om miljöfrågor av Vetenskapsradion</payoff>
+      <broadcastinfo>Onsdagar kl 13.35, repris tors kl 19.03 och söndag 19.35</broadcastinfo>
+      <email>klotet@sr.se</email>
+      <phone/>
+      <programurl>http://sverigesradio.se/sida/default.aspx?programid=3345</programurl>
+      <programimage>http://sverigesradio.se/diverse/appdata/isidor/images/news_images/3345/1935340_512_512.jpg</programimage>
+      <socialimage>http://sverigesradio.se/diverse/appdata/isidor/images/news_images/3345/1935340_512_512.jpg</socialimage>
+      <channel id="132" name="P1"/>
+      <archived>false</archived>
+      <hasondemand>true</hasondemand>
+      <haspod>true</haspod>
+    </program>
+    <program id="3349" name="Bokcirkeln">
+      <description>Programmet sänds från 2012 i Lundströms bokradio. Inbjudna gäster läser och  diskuterar böcker tillsammans.</description>
+      <programcategory id="3" name="Kultur/Nöje"/>
+      <payoff/>
+      <broadcastinfo>Programmet sänds från november 2012 i Lundströms bokradio</broadcastinfo>
+      <email/>
+      <phone/>
+      <programurl>http://sverigesradio.se/sida/default.aspx?programid=3349</programurl>
+      <programimage>http://sverigesradio.se/diverse/appdata/isidor/images/news_images/3349/1935905_512_512.jpg</programimage>
+      <socialimage>http://sverigesradio.se/diverse/appdata/isidor/images/news_images/3349/1935905_512_512.jpg</socialimage>
+      <channel id="132" name="P1"/>
+      <archived>false</archived>
+      <hasondemand>false</hasondemand>
+      <haspod>true</haspod>
+    </program>
+    <program id="3381" name="Tendens">
+      <description>Programmet som ger sig tid att lyssna, ta del och låta folk prata färdigt. I Tendens får du som lyssnare höra om människors liv och idéer. Här hör  mening och mönster i det som sker eller håller på att hända.</description>
+      <programcategory id="7" name="Samhälle"/>
+      <payoff>Berättelser från nutiden</payoff>
+      <broadcastinfo>P1 mån-ons kl 11.03, repris 20.03 och 23.30</broadcastinfo>
+      <email>tendens@sr.se</email>
+      <phone/>
+      <programurl>http://sverigesradio.se/sida/default.aspx?programid=3381</programurl>
+      <programimage>http://sverigesradio.se/diverse/appdata/isidor/images/news_images/3381/2446031_512_512.jpg</programimage>
+      <socialimage>http://sverigesradio.se/diverse/appdata/isidor/images/news_images/3381/2446031_512_512.jpg</socialimage>
+      <channel id="132" name="P1"/>
+      <archived>false</archived>
+      <hasondemand>true</hasondemand>
+      <haspod>true</haspod>
+    </program>
+    <program id="3494" name="Sommarsamtalet">
+      <description>En serie intervjuprogram där Martin Dyfverman och Katarina Hahr möter människor som berättar om sina liv och drivkrafter.</description>
+      <programcategory id="14" name="Livsstil"/>
+      <payoff>Katarina Hahr och Martin Dyfverman möter...</payoff>
+      <broadcastinfo>Sändes sommaren 2013</broadcastinfo>
+      <email/>
+      <phone/>
+      <programurl>http://sverigesradio.se/sida/default.aspx?programid=3494</programurl>
+      <programimage>http://sverigesradio.se/diverse/appdata/isidor/images/news_images/3494/2349953_512_512.jpg</programimage>
+      <socialimage>http://sverigesradio.se/diverse/appdata/isidor/images/news_images/3494/2349953_512_512.jpg</socialimage>
+      <channel id="132" name="P1"/>
+      <archived>false</archived>
+      <hasondemand>true</hasondemand>
+      <haspod>true</haspod>
+    </program>
+    <program id="3626" name="Ekonomiekot Lördag">
+      <description>På djupet om världsekonomin</description>
+      <programcategory id="68" name="Nyheter"/>
+      <payoff>Ut i världen - ner på djupet</payoff>
+      <broadcastinfo>Lördagar kl 11.40, repris kl 18.40</broadcastinfo>
+      <email>ekonomiekotlordag@sverigesradio.se</email>
+      <phone/>
+      <programurl>http://sverigesradio.se/sida/default.aspx?programid=3626</programurl>
+      <programimage>http://sverigesradio.se/diverse/appdata/isidor/images/news_images/3626/2962129_512_512.jpg</programimage>
+      <socialimage>http://sverigesradio.se/diverse/appdata/isidor/images/news_images/3626/2962129_512_512.jpg</socialimage>
+      <channel id="132" name="P1"/>
+      <archived>false</archived>
+      <hasondemand>true</hasondemand>
+      <haspod>true</haspod>
+    </program>
+    <program id="3637" name="Radiopsykologen">
+      <description>Radioprogrammet där du bestämmer innehållet utifrån dina tankar och funderingar.</description>
+      <programcategory id="4" name="Livsåskådning"/>
+      <payoff>Med Allan Linnér</payoff>
+      <broadcastinfo>Tors kl 11.03, repris kl 20.03 och fre kl 23.30</broadcastinfo>
+      <email>radiopsykologen@sr.se</email>
+      <phone/>
+      <programurl>http://sverigesradio.se/sida/default.aspx?programid=3637</programurl>
+      <programimage>http://sverigesradio.se/diverse/appdata/isidor/images/news_images/3637/2576190_512_512.jpg</programimage>
+      <socialimage>http://sverigesradio.se/diverse/appdata/isidor/images/news_images/3637/2576190_512_512.jpg</socialimage>
+      <channel id="132" name="P1"/>
+      <archived>false</archived>
+      <hasondemand>true</hasondemand>
+      <haspod>true</haspod>
+    </program>
+    <program id="3812" name="Oförnuft och känsla">
+      <description>- ett program om de enkla lösningarnas oändliga svårigheter</description>
+      <programcategory id="14" name="Livsstil"/>
+      <payoff>- ett program om de enkla lösningarnas oändliga svårigheter</payoff>
+      <broadcastinfo>Sändes sommaren 2013</broadcastinfo>
+      <email>ofornuftochkansla@sr.se</email>
+      <phone/>
+      <programurl>http://sverigesradio.se/sida/default.aspx?programid=3812</programurl>
+      <programimage>http://sverigesradio.se/diverse/appdata/isidor/images/news_images/3812/2315192_512_512.jpg</programimage>
+      <socialimage>http://sverigesradio.se/diverse/appdata/isidor/images/news_images/3812/2315192_512_512.jpg</socialimage>
+      <channel id="132" name="P1"/>
+      <archived>false</archived>
+      <hasondemand>true</hasondemand>
+      <haspod>true</haspod>
+    </program>
+    <program id="4058" name="Nordegren &amp; Epstein i P1">
+      <description>Talkshow i Sveriges Radio P1 med Thomas Nordegren Louise Epstein</description>
+      <programcategory id="7" name="Samhälle"/>
+      <payoff>Tänk fritt - tala högt</payoff>
+      <broadcastinfo>Måndag-torsdag 15.04, repris 01.02</broadcastinfo>
+      <email>nordegrenepstein@sverigesradio.se</email>
+      <phone/>
+      <programurl>http://sverigesradio.se/sida/default.aspx?programid=4058</programurl>
+      <programimage>http://sverigesradio.se/diverse/appdata/isidor/images/news_images/4058/2444176_512_512.jpg</programimage>
+      <socialimage>http://sverigesradio.se/diverse/appdata/isidor/images/news_images/4058/2444176_512_512.jpg</socialimage>
+      <channel id="132" name="P1"/>
+      <archived>false</archived>
+      <hasondemand>true</hasondemand>
+      <haspod>true</haspod>
+    </program>
+    <program id="4091" name="Kluvet land">
+      <description>Det bor fler människor i städer än på landsbygden för första gången i vår historia. Trenden är global. Byar och samhällen riskerar att dö ut och Sverige förändras.</description>
+      <programcategory id="7" name="Samhälle"/>
+      <payoff>Om unga och jobb</payoff>
+      <broadcastinfo>Sändningsuppehåll </broadcastinfo>
+      <email>kluvetland@sverigesradio.se</email>
+      <phone/>
+      <programurl>http://sverigesradio.se/sida/default.aspx?programid=4091</programurl>
+      <programimage>http://sverigesradio.se/diverse/appdata/isidor/images/news_images/4091/2828918_512_512.jpg</programimage>
+      <socialimage>http://sverigesradio.se/diverse/appdata/isidor/images/news_images/4091/2828918_512_512.jpg</socialimage>
+      <channel id="132" name="P1"/>
+      <archived>false</archived>
+      <hasondemand>true</hasondemand>
+      <haspod>true</haspod>
+    </program>
+    <program id="4117" name="Fjällradio!">
+      <description>Ett program som sändes sommaren 2013 med reportage som fjällvädret - ombytligt och ivrigt växlande. Från vardagen i vinter- och sommarfjällen.</description>
+      <programcategory id="14" name="Livsstil"/>
+      <payoff/>
+      <broadcastinfo>Sändes sommaren 2013</broadcastinfo>
+      <email/>
+      <phone/>
+      <programurl>http://sverigesradio.se/sida/default.aspx?programid=4117</programurl>
+      <programimage>http://sverigesradio.se/diverse/appdata/isidor/images/news_images/4117/2356958_512_512.jpg</programimage>
+      <socialimage>http://sverigesradio.se/diverse/appdata/isidor/images/news_images/4117/2356958_512_512.jpg</socialimage>
+      <channel id="132" name="P1"/>
+      <archived>false</archived>
+      <hasondemand>false</hasondemand>
+      <haspod>true</haspod>
+    </program>
+    <program id="4268" name="Den andra världen">
+      <description>Om det som förenar tron med konsten. Det är ett samband som riskerar att glömmas bort. Vi lever i en tid där de två områdena ofta skiljs åt. I det här programmet kommer de få mötas igen.</description>
+      <programcategory id="4" name="Livsåskådning"/>
+      <payoff>Om tro och konst</payoff>
+      <broadcastinfo>Sändningsuppehåll</broadcastinfo>
+      <email>denandravarlden@sverigesradio.se </email>
+      <phone/>
+      <programurl>http://sverigesradio.se/sida/default.aspx?programid=4268</programurl>
+      <programimage>http://sverigesradio.se/diverse/appdata/isidor/images/news_images/4268/2361351_512_512.jpg</programimage>
+      <socialimage>http://sverigesradio.se/diverse/appdata/isidor/images/news_images/4268/2361351_512_512.jpg</socialimage>
+      <channel id="132" name="P1"/>
+      <archived>false</archived>
+      <hasondemand>true</hasondemand>
+      <haspod>true</haspod>
+    </program>
+    <program id="4296" name="Luuk &amp; Lokko">
+      <description>Kristian Luuk och Andres Lokkos liv och åsikter</description>
+      <programcategory id="3" name="Kultur/Nöje"/>
+      <payoff>En poddradioshow</payoff>
+      <broadcastinfo>Programmet sänds inte längre</broadcastinfo>
+      <email>luukochlokko@sverigesradio.se</email>
+      <phone/>
+      <programurl>http://sverigesradio.se/sida/default.aspx?programid=4296</programurl>
+      <programimage>http://sverigesradio.se/diverse/appdata/isidor/images/news_images/4296/2143980_512_512.jpg</programimage>
+      <socialimage>http://sverigesradio.se/diverse/appdata/isidor/images/news_images/4296/2143980_512_512.jpg</socialimage>
+      <channel id="132" name="P1"/>
+      <archived>false</archived>
+      <hasondemand>true</hasondemand>
+      <haspod>true</haspod>
+    </program>
+    <program id="4325" name="Upploppet">
+      <description>Sluta grogga börja jogga! Upploppet är en livsstilsserie av producenterna Anna Åkerlund från Stil P1 och Sofia Hedström från Svenska Dagbladet. Båda två tillhör en ny typ av löpare.</description>
+      <programcategory id="14" name="Livsstil"/>
+      <payoff>- om sport och kultur</payoff>
+      <broadcastinfo>Sändes sommaren 2013</broadcastinfo>
+      <email>upploppet@sverigesradio.se</email>
+      <phone/>
+      <programurl>http://sverigesradio.se/sida/default.aspx?programid=4325</programurl>
+      <programimage>http://sverigesradio.se/diverse/appdata/isidor/images/news_images/4325/2363310_512_512.jpg</programimage>
+      <socialimage>http://sverigesradio.se/diverse/appdata/isidor/images/news_images/4325/2363310_512_512.jpg</socialimage>
+      <channel id="132" name="P1"/>
+      <archived>false</archived>
+      <hasondemand>false</hasondemand>
+      <haspod>true</haspod>
+    </program>
+    <program id="4381" name="Lundströms Bokradio">
+      <description>Litterärt veckomagasin med Marie Lundström. Här får du nära författarmöten, lästips och reportage från bokvärlden – för alla som är nyfikna på romaner, dikter och vardagens poesi!</description>
+      <programcategory id="3" name="Kultur/Nöje"/>
+      <payoff>Läsa är silver, lyssna är guld</payoff>
+      <broadcastinfo>Lördag kl 8.05 med repris måndag kl 18.15</broadcastinfo>
+      <email>bokradio@sverigesradio.se</email>
+      <phone/>
+      <programurl>http://sverigesradio.se/sida/default.aspx?programid=4381</programurl>
+      <programimage>http://sverigesradio.se/diverse/appdata/isidor/images/news_images/4381/3025336_512_512.jpg</programimage>
+      <socialimage>http://sverigesradio.se/diverse/appdata/isidor/images/news_images/4381/3025336_512_512.jpg</socialimage>
+      <channel id="132" name="P1"/>
+      <archived>false</archived>
+      <hasondemand>true</hasondemand>
+      <haspod>true</haspod>
+    </program>
+    <program id="4384" name="Kulturdokumentären">
+      <description>Kulturdokumentären är en 45 minuter lång radioupplevelse, som belyser och skärskådar samtiden. Där skapas korsbefruktningar mellan konst och samhälle, här sänds också Kulturradions porträtt av levande - och - sedan länge döda kulturperonligheter.</description>
+      <programcategory id="82" name="Dokumentär"/>
+      <payoff/>
+      <broadcastinfo>Måndag kl 14.03 med repris tisdag kl 18.15</broadcastinfo>
+      <email>kulturradion@sverigesradio.se</email>
+      <phone/>
+      <programurl>http://sverigesradio.se/sida/default.aspx?programid=4384</programurl>
+      <programimage>http://sverigesradio.se/diverse/appdata/isidor/images/news_images/4384/2474264_512_512.jpg</programimage>
+      <socialimage>http://sverigesradio.se/diverse/appdata/isidor/images/news_images/4384/2474264_512_512.jpg</socialimage>
+      <channel id="132" name="P1"/>
+      <archived>false</archived>
+      <hasondemand>true</hasondemand>
+      <haspod>true</haspod>
+    </program>
+    <program id="4385" name="Apropå">
+      <description>Apropå väljer fritt ur kulturutbudet, och fördjupar sig i det mest provocerande och det minst inspirerande inom samtida konst och teater. Det största mest aktuella verken paras med de små och bortglömda.</description>
+      <programcategory id="3" name="Kultur/Nöje"/>
+      <payoff>Teater och konst och en och annan bok</payoff>
+      <broadcastinfo>Programmet sänds inte längre</broadcastinfo>
+      <email>kulturredaktionen@sverigesradio.se</email>
+      <phone/>
+      <programurl>http://sverigesradio.se/sida/default.aspx?programid=4385</programurl>
+      <programimage>http://sverigesradio.se/diverse/appdata/isidor/images/news_images/4385/2474271_512_512.jpg</programimage>
+      <socialimage>http://sverigesradio.se/diverse/appdata/isidor/images/news_images/4385/2474271_512_512.jpg</socialimage>
+      <channel id="132" name="P1"/>
+      <archived>false</archived>
+      <hasondemand>false</hasondemand>
+      <haspod>true</haspod>
+    </program>
+    <program id="4387" name="Typo">
+      <description>Typo är programmet som tar typsnitten på allvar och berättar berättelserna om hur våra bokstäver egentligen fick sina former, hur de påverkar oss och varför. </description>
+      <programcategory id="3" name="Kultur/Nöje"/>
+      <payoff/>
+      <broadcastinfo>Programmet sänds då och då</broadcastinfo>
+      <email>typo@sverigesradio.se </email>
+      <phone/>
+      <programurl>http://sverigesradio.se/sida/default.aspx?programid=4387</programurl>
+      <programimage>http://sverigesradio.se/diverse/appdata/isidor/images/news_images/4387/2503290_512_512.jpg</programimage>
+      <socialimage>http://sverigesradio.se/diverse/appdata/isidor/images/news_images/4387/2503290_512_512.jpg</socialimage>
+      <channel id="132" name="P1"/>
+      <archived>false</archived>
+      <hasondemand>true</hasondemand>
+      <haspod>true</haspod>
+    </program>
+    <program id="4418" name="Katarina Hahr möter">
+      <description>Katarina Hahr möter kända personer i ett nära samtal om relationer.</description>
+      <programcategory id="7" name="Samhälle"/>
+      <payoff/>
+      <broadcastinfo>P1 2 - 4 december kl 11.03, repris 20.03 och 23.30</broadcastinfo>
+      <email>katarina.hahr@sverigesradio.se</email>
+      <phone/>
+      <programurl>http://sverigesradio.se/sida/default.aspx?programid=4418</programurl>
+      <programimage>http://sverigesradio.se/diverse/appdata/isidor/images/news_images/4418/2604628_512_512.jpg</programimage>
+      <socialimage>http://sverigesradio.se/diverse/appdata/isidor/images/news_images/4418/2604628_512_512.jpg</socialimage>
+      <channel id="132" name="P1"/>
+      <archived>false</archived>
+      <hasondemand>true</hasondemand>
+      <haspod>true</haspod>
+    </program>
+    <program id="4453" name="Radioteaterbiblioteket">
+      <description>Världsdramatiken när du har tid. Klassiker ur Radioteaterns arkiv.</description>
+      <programcategory id="3" name="Kultur/Nöje"/>
+      <payoff>Bildning, drömmar, politik, underhållning och kärlek </payoff>
+      <broadcastinfo>Världsdramatiken när du har tid</broadcastinfo>
+      <email>radioteaterbiblioteket@sverigesradio.se</email>
+      <phone/>
+      <programurl>http://sverigesradio.se/sida/default.aspx?programid=4453</programurl>
+      <programimage>http://sverigesradio.se/diverse/appdata/isidor/images/news_images/4453/2624187_512_512.jpg</programimage>
+      <socialimage>http://sverigesradio.se/diverse/appdata/isidor/images/news_images/4453/2624187_512_512.jpg</socialimage>
+      <channel id="132" name="P1"/>
+      <archived>false</archived>
+      <hasondemand>true</hasondemand>
+      <haspod>true</haspod>
+    </program>
+    <program id="4458" name="Världshistorien">
+      <description>Radioteatern skriver en ny världshistoria. Varje dag en berättelse om någon som vågade säga ifrån.</description>
+      <payoff>Radioteatern skriver en ny världshistoria. Varje dag en berättelse om någon som vågade säga ifrån.</payoff>
+      <broadcastinfo>Vardagar kl 13.30, lördag kl 10.45, söndag kl 13.25 – med repris kvällstid</broadcastinfo>
+      <email/>
+      <phone/>
+      <programurl>http://sverigesradio.se/sida/avsnitt?programid=4458</programurl>
+      <programimage>http://sverigesradio.se/diverse/appdata/isidor/images/news_images/4458/2658457_512_512.jpg</programimage>
+      <socialimage>http://sverigesradio.se/diverse/appdata/isidor/images/news_images/4458/2658457_512_512.jpg</socialimage>
+      <channel id="132" name="P1"/>
+      <archived>false</archived>
+      <hasondemand>false</hasondemand>
+      <haspod>true</haspod>
+    </program>
+    <program id="4462" name="Människan och maskinen">
+      <description>För att förstå framtiden måste vi återupptäcka vår glömda historia.</description>
+      <programcategory id="3" name="Kultur/Nöje"/>
+      <payoff>För att förstå framtiden måste vi återupptäcka vår glömda historia</payoff>
+      <broadcastinfo/>
+      <email>maskinen@sverigesradio.se</email>
+      <phone/>
+      <programurl>http://sverigesradio.se/sida/default.aspx?programid=4462</programurl>
+      <programimage>http://sverigesradio.se/diverse/appdata/isidor/images/news_images/4462/2678336_512_512.jpg</programimage>
+      <socialimage>http://sverigesradio.se/diverse/appdata/isidor/images/news_images/4462/2678336_512_512.jpg</socialimage>
+      <channel id="132" name="P1"/>
+      <archived>false</archived>
+      <hasondemand>false</hasondemand>
+      <haspod>true</haspod>
+    </program>
+    <program id="4463" name="Tekniksafari ">
+      <description>Med tekniken ständigt närvarande – framför ögonen, under fingertopparna, innanför kläderna och inuti kroppen – är det ett ämne som har potential att beröra alla.</description>
+      <programcategory id="14" name="Livsstil"/>
+      <payoff>– sinnligt om ny teknik</payoff>
+      <broadcastinfo>Sändningsuppehåll</broadcastinfo>
+      <email>torill.kornfeldt@sverigesradio.se</email>
+      <phone/>
+      <programurl>http://sverigesradio.se/sida/default.aspx?programid=4463</programurl>
+      <programimage>http://sverigesradio.se/diverse/appdata/isidor/images/news_images/4463/2686186_512_512.jpg</programimage>
+      <socialimage>http://sverigesradio.se/diverse/appdata/isidor/images/news_images/4463/2686186_512_512.jpg</socialimage>
+      <channel id="132" name="P1"/>
+      <archived>false</archived>
+      <hasondemand>false</hasondemand>
+      <haspod>true</haspod>
+    </program>
+    <program id="4469" name="Lantzkampen">
+      <description>Lantzkampen är en frågesport där det är lika svårt att ha rätt som att ha helt och hållet fel.</description>
+      <programcategory id="3" name="Kultur/Nöje"/>
+      <payoff>Sveriges Radio mot världen</payoff>
+      <broadcastinfo>Fredagar kl 18.16, lördagar kl 20.03</broadcastinfo>
+      <email>lantzkampen@sverigesradio.se</email>
+      <phone/>
+      <programurl>http://sverigesradio.se/sida/default.aspx?programid=4469</programurl>
+      <programimage>http://sverigesradio.se/diverse/appdata/isidor/images/news_images/4469/2751094_512_512.jpg</programimage>
+      <socialimage>http://sverigesradio.se/diverse/appdata/isidor/images/news_images/4469/2751094_512_512.jpg</socialimage>
+      <channel id="132" name="P1"/>
+      <archived>false</archived>
+      <hasondemand>true</hasondemand>
+      <haspod>true</haspod>
+    </program>
+    <program id="4476" name="P1 om Fantasi">
+      <description>Ett ämne, fyra talare, tolv minuter var.</description>
+      <programcategory id="7" name="Samhälle"/>
+      <payoff>Ett ämne, fyra talare, tolv minuter var</payoff>
+      <broadcastinfo>kl. 19.30 på Södra Teatern i Stockholm och i P1 den 9 okt</broadcastinfo>
+      <email/>
+      <phone/>
+      <programurl>http://sverigesradio.se/sida/default.aspx?programid=4476</programurl>
+      <programimage>http://sverigesradio.se/diverse/appdata/isidor/images/news_images/4476/2979383_512_512.jpg</programimage>
+      <socialimage>http://sverigesradio.se/diverse/appdata/isidor/images/news_images/4476/2979383_512_512.jpg</socialimage>
+      <channel id="132" name="P1"/>
+      <archived>false</archived>
+      <hasondemand>false</hasondemand>
+      <haspod>true</haspod>
+    </program>
+    <program id="4485" name="Livet på hemmet">
+      <description>I den dokumentära radiosåpan Livet på hemmet  får vi höra samtal med de de som bor på äldreboendet Kattrumpstullen i Stockholm om allt från hur man tuggar kött med löständer till längtan efter döden.</description>
+      <programcategory id="7" name="Samhälle"/>
+      <payoff>En dokumentär radiosåpa om livets sista bostad</payoff>
+      <broadcastinfo>Sändes sommaren 2013</broadcastinfo>
+      <email>livetpahemmet@sverigesradio.se</email>
+      <phone/>
+      <programurl>http://sverigesradio.se/sida/default.aspx?programid=4485</programurl>
+      <programimage>http://sverigesradio.se/diverse/appdata/isidor/images/news_images/4485/2829596_512_512.jpg</programimage>
+      <socialimage>http://sverigesradio.se/diverse/appdata/isidor/images/news_images/4485/2829596_512_512.jpg</socialimage>
+      <channel id="132" name="P1"/>
+      <archived>false</archived>
+      <hasondemand>true</hasondemand>
+      <haspod>true</haspod>
+    </program>
+    <program id="4496" name="Bortom bilen">
+      <description>Bortom bilen är programmet som tar dig med in i framtiden. Förr var bilen sinnebilden för frihet och lycka, idag minskar privatbilismen i västvärlden. I fyra program granskar vi orsaker, verkan och vad som händer runt hörnet.</description>
+      <programcategory id="7" name="Samhälle"/>
+      <payoff/>
+      <broadcastinfo>Sändes sommaren 2013</broadcastinfo>
+      <email>bortombilen@sverigesradio.se</email>
+      <phone/>
+      <programurl>http://sverigesradio.se/sida/default.aspx?programid=4496</programurl>
+      <programimage>http://sverigesradio.se/diverse/appdata/isidor/images/news_images/4496/2881923_512_512.jpg</programimage>
+      <socialimage>http://sverigesradio.se/diverse/appdata/isidor/images/news_images/4496/2881923_512_512.jpg</socialimage>
+      <channel id="132" name="P1"/>
+      <archived>false</archived>
+      <hasondemand>false</hasondemand>
+      <haspod>true</haspod>
+    </program>
+    <program id="4500" name="Rena rum ">
+      <description>Niclas Albertsson och Karin Ernstsson tar dig med på en resa om städning. Vi reser i tid och rum genom olika generationer, klasser och kulturer. Häng med!</description>
+      <programcategory id="14" name="Livsstil"/>
+      <payoff>Ett program om städning</payoff>
+      <broadcastinfo>Sändes hösten 2013</broadcastinfo>
+      <email>niclas.albertsson@sverigesradio.se</email>
+      <phone/>
+      <programurl>http://sverigesradio.se/sida/default.aspx?programid=4500</programurl>
+      <programimage>http://sverigesradio.se/diverse/appdata/isidor/images/news_images/4500/2858019_512_512.jpg</programimage>
+      <socialimage>http://sverigesradio.se/diverse/appdata/isidor/images/news_images/4500/2858019_512_512.jpg</socialimage>
+      <channel id="132" name="P1"/>
+      <archived>false</archived>
+      <hasondemand>false</hasondemand>
+      <haspod>false</haspod>
+    </program>
+    <program id="4507" name="Reportagserien: Det delade Sverige">
+      <description>Reportage och nyheter av Studio Ett reporter Katarina Gunnarsson och Ekots reporter Marcus Eriksson från några av Sveriges mest utsatta bostadsområden.</description>
+      <programcategory id="7" name="Samhälle"/>
+      <payoff>Katarina Gunnarsson och Marcus Eriksson rapporterar</payoff>
+      <broadcastinfo/>
+      <email/>
+      <phone/>
+      <programurl>http://sverigesradio.se/sida/default.aspx?programid=4507</programurl>
+      <programimage>http://sverigesradio.se/diverse/appdata/isidor/images/news_images/4507/2938291_512_512.jpg</programimage>
+      <socialimage>http://sverigesradio.se/diverse/appdata/isidor/images/news_images/4507/2938291_512_512.jpg</socialimage>
+      <channel id="132" name="P1"/>
+      <archived>false</archived>
+      <hasondemand>false</hasondemand>
+      <haspod>true</haspod>
+    </program>
+    <program id="4528" name="Tack för maten">
+      <description>Vad kan vi välja om vi vill att maten ska vara schysst producerad? Och vad var det som försvann när den industriella matproduktionen tog över? Följ med SR:s prisbelönta miljöreporter Malin Olofssons resande matsällskap och få svaren.</description>
+      <programcategory id="7" name="Samhälle"/>
+      <payoff>På jakt efter schysstare käk</payoff>
+      <broadcastinfo>Sändes sommaren 2013</broadcastinfo>
+      <email>malin.olofsson@sverigesradio.se</email>
+      <phone/>
+      <programurl>http://sverigesradio.se/sida/default.aspx?programid=4528</programurl>
+      <programimage>http://sverigesradio.se/diverse/appdata/isidor/images/news_images/4528/2927491_512_512.jpg</programimage>
+      <socialimage>http://sverigesradio.se/diverse/appdata/isidor/images/news_images/4528/2927491_512_512.jpg</socialimage>
+      <channel id="132" name="P1"/>
+      <archived>false</archived>
+      <hasondemand>false</hasondemand>
+      <haspod>true</haspod>
+    </program>
+    <program id="4558" name="Europaväg 45">
+      <description>Kulturredaktionens serie om kultur och människor längs E45:an.</description>
+      <programcategory id="3" name="Kultur/Nöje"/>
+      <payoff>Från Karesuando till Sicilien med Kulturradion</payoff>
+      <broadcastinfo>Onsdag kl 14.03 med repris torsdag kl 18.15</broadcastinfo>
+      <email>kulturradion@sverigesradio.se</email>
+      <phone/>
+      <programurl>http://sverigesradio.se/sida/default.aspx?programid=4558</programurl>
+      <programimage>http://sverigesradio.se/diverse/appdata/isidor/images/news_images/4558/2996319_512_512.jpg</programimage>
+      <socialimage>http://sverigesradio.se/diverse/appdata/isidor/images/news_images/4558/2996319_512_512.jpg</socialimage>
+      <channel id="132" name="P1"/>
+      <archived>false</archived>
+      <hasondemand>true</hasondemand>
+      <haspod>true</haspod>
+    </program>
+    <program id="4572" name="Svenska berättelser">
+      <description>Lyssnarnas egna berättelser.</description>
+      <programcategory id="82" name="Dokumentär"/>
+      <payoff>Lyssnarnas egna berättelser.</payoff>
+      <broadcastinfo>P1 16 - 18 december kl 11.03, repris 20.03 och 23.30</broadcastinfo>
+      <email>ola.hemstrom@sverigesradio.se</email>
+      <phone/>
+      <programurl>http://sverigesradio.se/sida/default.aspx?programid=4572</programurl>
+      <programimage>http://sverigesradio.se/diverse/appdata/isidor/images/news_images/4572/3084057_512_512.jpg</programimage>
+      <socialimage>http://sverigesradio.se/diverse/appdata/isidor/images/news_images/4572/3084057_512_512.jpg</socialimage>
+      <channel id="132" name="P1"/>
+      <archived>false</archived>
+      <hasondemand>true</hasondemand>
+      <haspod>true</haspod>
+    </program>
+    <program id="4607" name="Ditt Parti">
+      <description>Ditt Parti - en serie om DP och den skakiga vägen mot 4%.</description>
+      <programcategory id="3" name="Kultur/Nöje"/>
+      <payoff>Ditt Parti - en serie om DP och den skakiga vägen mot 4%.</payoff>
+      <broadcastinfo>Lördag kl 10.45 med repris söndag 21.35</broadcastinfo>
+      <email>magnus.berg@sverigesradio.se</email>
+      <phone/>
+      <programurl>http://sverigesradio.se/sida/default.aspx?programid=4607</programurl>
+      <programimage>http://sverigesradio.se/diverse/appdata/isidor/images/news_images/132/2186746_512_512.jpg</programimage>
+      <socialimage>http://sverigesradio.se/diverse/appdata/isidor/images/news_images/132/2186746_512_512.jpg</socialimage>
+      <channel id="132" name="P1"/>
+      <archived>false</archived>
+      <hasondemand>false</hasondemand>
+      <haspod>true</haspod>
+    </program>
+  </programs>
+</sr>

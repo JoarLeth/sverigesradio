@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sr>
+  <copyright>Copyright Sveriges Radio 2014. All rights reserved.</copyright>
+  <pagination>
+    <page>1</page>
+    <size>10</size>
+    <totalhits>316</totalhits>
+    <totalpages>32</totalpages>
+    <nextpage>http://api.sr.se/api/v2/episodes/index?programid=407&amp;page=2</nextpage>
+  </pagination>
+  <episodes>
+    <episode id="298577">
+      <title>Kvinnokamp för skilsmässor och myndighet</title>
+      <description>Vid sekelskiftet 1800 stod kvinnokampen om skilsmässor och rätten att bli sedd som en myndig person. Vetenskapsradion Historia träffar två forskare som undersökt hur ett fåtal kvinnor gick i bräschen för emancipationen i Sverige. – När det är maskerad kan jag inte hålla på mig, ska adelsdamen Aurora de Geer ha sagt om sitt frisläppta leverne. Historikern Carin Bergström har undersökt hur Aurora och andra högadelsdamer letade efter kryphål i lagen för att lyckas skilja sig med sina män. Bland annat var det vanligt att man hittade på otrohetsaffärer för att övertyga domstolarna om att godkänna en skilsmässa. Under 1800-talet var dessutom de flesta kvinnor omyndiga, och endast genom att söka dispens hos kungen kunde en ogift kvinna få tillgång till sitt arv. Historikern Britt Liljewall har undersökt de kvinnor som vågade trotsa normerna och ta strid för kvinnomyndigheten. – Med tiden kom frågan om myndighet att handla mindre om ekonomi och mer om identitet, säger hon. Programledare är Tobias Svanelid. Detta program är en repris från den 10 oktober 2013.</description>
+      <url>http://sverigesradio.se/sida/avsnitt/298577?programid=407</url>
+      <imageurl>http://sverigesradio.se/diverse/appdata/isidor/images/news_images/407/2216423_512_512.jpg</imageurl>
+      <program id="407" name="Vetenskapsradion Historia"/>
+      <publishdateutc>2014-01-02T12:35:00Z</publishdateutc>
+      <broadcast>
+        <availablestoputc>2014-02-01T13:00:00Z</availablestoputc>
+        <playlist id="4811938">
+          <url>http://sverigesradio.se/api/radio/radio.aspx?type=broadcast&amp;id=4811938&amp;codingformat=.m4a&amp;metafile=asx</url>
+          <statkey>/app/avsnitt/p1[k(132)]/vetenskapsradion historia[p(407)]/vetenskapsradion historia : kvinnokamp för skilsmässor och medborgarskap 20140102 13:35[e(298577)]</statkey>
+          <duration>1495</duration>
+          <publishdateutc>2014-01-02T12:35:00Z</publishdateutc>
+        </playlist>
+        <broadcastfiles>
+          <broadcastfile id="4811938">
+            <url>http://sverigesradio.se/topsy/ljudfil/4811938.m4a</url>
+            <statkey>/app/avsnitt/p1[k(132)]/vetenskapsradion historia[p(407)]/vetenskapsradion historia : kvinnokamp för skilsmässor och medborgarskap 20140102 13:35[e(298577)]</statkey>
+            <duration>1495</duration>
+            <publishdateutc>2014-01-02T12:35:00Z</publishdateutc>
+          </broadcastfile>
+        </broadcastfiles>
+      </broadcast>
+    </episode>
+    <episode id="302875">
+      <title>Vetenskapsradion Historia</title>
+      <description>Programledare: Tobias Svanelid. </description>
+      <url>http://sverigesradio.se/sida/avsnitt/302875?programid=407</url>
+      <imageurl>http://sverigesradio.se/diverse/appdata/isidor/images/news_images/407/2216423_512_512.jpg</imageurl>
+      <program id="407" name="Vetenskapsradion Historia"/>
+      <publishdateutc>2013-12-29T17:35:00Z</publishdateutc>
+      <broadcast>
+        <availablestoputc>2014-01-28T18:00:00Z</availablestoputc>
+        <playlist id="4809038">
+          <url>http://sverigesradio.se/api/radio/radio.aspx?type=broadcast&amp;id=4809038&amp;codingformat=.m4a&amp;metafile=asx</url>
+          <statkey>/app/avsnitt/p1[k(132)]/vetenskapsradion historia[p(407)]/vetenskapsradion historia 20131229 18:35[e(302875)]</statkey>
+          <duration>1495</duration>
+          <publishdateutc>2013-12-29T17:35:00Z</publishdateutc>
+        </playlist>
+        <broadcastfiles>
+          <broadcastfile id="4809038">
+            <url>http://sverigesradio.se/topsy/ljudfil/4809038.m4a</url>
+            <statkey>/app/avsnitt/p1[k(132)]/vetenskapsradion historia[p(407)]/vetenskapsradion historia 20131229 18:35[e(302875)]</statkey>
+            <duration>1495</duration>
+            <publishdateutc>2013-12-29T17:35:00Z</publishdateutc>
+          </broadcastfile>
+        </broadcastfiles>
+      </broadcast>
+    </episode>
+    <episode id="298576">
+      <title>Hjältebanditer var historiens superkändisar</title>
+      <description>Robin Hood i England och Lasse-Maja i Sverige. Den ene gav upphov till världens första kiosklitteraturdebatt och den andre utmanade kungen i popularitet. Listan över rövare och banditer som vunnit folkets hjärtan kan göras lång, men vad är det egentligen som gjort att de fascinerat sin omvärld? – I svåra ekonomiska tider har det alltid funnits ett behov av en förebild som sätter sig upp mot överheten, en Robin Hood eller en Lasse-Maja, berättar historikern Dick Harrison. Men att de någonsin gav några pengar till fattiga är ett önsketänkande! Vetenskapsradion Historia uppmärksammar att det i dagarna gått 200 år sedan crossdressande stortjuven Lasse-Maja åkte in på Marstrands fästning, och 75 år sedan Errol Flynns epokgörande Robin Hood-filmatisering hade premiär. Programledare är Tobias Svanelid. Detta program är en repris från den 12 september 2013.</description>
+      <url>http://sverigesradio.se/sida/avsnitt/298576?programid=407</url>
+      <imageurl>http://sverigesradio.se/diverse/appdata/isidor/images/news_images/407/2216423_512_512.jpg</imageurl>
+      <program id="407" name="Vetenskapsradion Historia"/>
+      <publishdateutc>2013-12-28T00:02:00Z</publishdateutc>
+      <broadcast>
+        <availablestoputc>2014-01-27T00:30:00Z</availablestoputc>
+        <playlist id="4808204">
+          <url>http://sverigesradio.se/api/radio/radio.aspx?type=broadcast&amp;id=4808204&amp;codingformat=.m4a&amp;metafile=asx</url>
+          <statkey>/app/avsnitt/p1[k(132)]/vetenskapsradion historia[p(407)]/vetenskapsradion historia : hjältebanditer var historiens superkändisar 20131228 01:02[e(298576)]</statkey>
+          <duration>1675</duration>
+          <publishdateutc>2013-12-28T00:02:00Z</publishdateutc>
+        </playlist>
+        <broadcastfiles>
+          <broadcastfile id="4808204">
+            <url>http://sverigesradio.se/topsy/ljudfil/4808204.m4a</url>
+            <statkey>/app/avsnitt/p1[k(132)]/vetenskapsradion historia[p(407)]/vetenskapsradion historia : hjältebanditer var historiens superkändisar 20131228 01:02[e(298576)]</statkey>
+            <duration>1675</duration>
+            <publishdateutc>2013-12-28T00:02:00Z</publishdateutc>
+          </broadcastfile>
+        </broadcastfiles>
+      </broadcast>
+    </episode>
+    <episode id="296300">
+      <title>Mördarpirater och kinesiska pyramider</title>
+      <description>I Vetenskapsradion Historia traditionsenliga julklappsprogram tipsar Urban Björstadius och Tobias Svanelid om hårda klappar att lägga under historieälskarens julgran. Hör om hemliga poliser, karibiska mördarpirater, kinesiska pyramidbyggen och trolska vinterkrig. Böckerna och spelen som programmet tipsar om är: ”I skuggan av Rom” av Kent Andersson ”Germaner” av Tore Jansson ”Usla, elända och arma” av Sofia Holmlund och Annika Sandén ”101 historiska hjältar” av Ola Larsmo och Brian Palmer ”101 föremål ur Sveriges historia” av Katarina Harrison Lindberg och Dick Harrison ”Järnridån” av Anne Applebaum ”Landsmän” av Bo Lidegaard ”Ardennerna – Hitlers vinteroffensiv 1944-1945” av Christer Bergström ”Assassins Creed 4 – Black Flag” av Ubisoft ”Nations” av Lautapelit</description>
+      <url>http://sverigesradio.se/sida/avsnitt/296300?programid=407</url>
+      <imageurl>http://sverigesradio.se/diverse/appdata/isidor/images/news_images/407/2216423_512_512.jpg</imageurl>
+      <program id="407" name="Vetenskapsradion Historia"/>
+      <publishdateutc>2013-12-19T12:35:00Z</publishdateutc>
+      <listenpodfile id="4795079">
+        <url>http://sverigesradio.se/topsy/ljudfil/4795079.mp3</url>
+        <statkey>/app/avsnitt/p1[k(132)]/vetenskapsradion historia[p(407)]/vetenskapsradion historia 2013-12-19 13:35[e(296300)]</statkey>
+        <duration>1473</duration>
+        <publishdateutc>2013-12-19T12:35:00Z</publishdateutc>
+        <title>Vinterkrig och mördarpiraten gör julen!</title>
+        <description>I Vetenskapsradion Historias traditionsenliga julklappsprogram tipsas om böcker och spel för den historiefrälste - hör Tobias Svanelid och Urban Björstadius diskutera om Ardenneroffensiven, kinesiska pyramider och romerska katter bland annat.</description>
+        <filesizeinbytes>23636653</filesizeinbytes>
+        <program id="407" name="Vetenskapsradion Historia"/>
+      </listenpodfile>
+      <downloadpodfile id="4795079">
+        <url>http://sverigesradio.se/topsy/ljudfil/4795079.mp3</url>
+        <statkey>/app/avsnitt/p1[k(132)]/vetenskapsradion historia[p(407)]/vetenskapsradion historia 2013-12-19 13:35[e(296300)]</statkey>
+        <duration>1473</duration>
+        <publishdateutc>2013-12-19T12:35:00Z</publishdateutc>
+        <title>Vinterkrig och mördarpiraten gör julen!</title>
+        <description>I Vetenskapsradion Historias traditionsenliga julklappsprogram tipsas om böcker och spel för den historiefrälste - hör Tobias Svanelid och Urban Björstadius diskutera om Ardenneroffensiven, kinesiska pyramider och romerska katter bland annat.</description>
+        <filesizeinbytes>23636653</filesizeinbytes>
+        <program id="407" name="Vetenskapsradion Historia"/>
+      </downloadpodfile>
+    </episode>
+    <episode id="294056">
+      <title>Gustav III:s mystiska katamaran</title>
+      <description>Det var sannolikt det märkligaste skepp som någonsin seglat på Östersjön – Experiment of Leith – en femmastad katamaran med skovelhjul. Vetenskapsradion Historia berättar de senaste rönen om detta märkliga fartyg, som har kopplingar till Skottlands nationalrätt haggis och ångmaskinsrevolutionen. – Mycket tyder på att hon faktiskt ligger sjunken mitt i centrala Stockholm, menar marinarkeologen Marcus Hjulhammar som intresserat sig för Experiment of Leith. Dessutom uppmärksammas den sista striden mellan svenskar och danskar för 200 år sedan. Slaget vid Bornhöft i december 1813 var slutpunkten för sekel av fiendskap länderna emellan, och markerade också slutpunkten för Sveriges stormaktsambitioner på kontinenten. Programledare är Tobias Svanelid.</description>
+      <url>http://sverigesradio.se/sida/avsnitt/294056?programid=407</url>
+      <imageurl>http://sverigesradio.se/diverse/appdata/isidor/images/news_images/407/2216423_512_512.jpg</imageurl>
+      <program id="407" name="Vetenskapsradion Historia"/>
+      <publishdateutc>2013-12-12T12:35:00Z</publishdateutc>
+      <listenpodfile id="4789958">
+        <url>http://sverigesradio.se/topsy/ljudfil/4789958.mp3</url>
+        <statkey>/app/avsnitt/p1[k(132)]/vetenskapsradion historia[p(407)]/gustav iii:s mystiska katamaran[e(294056)]</statkey>
+        <duration>1444</duration>
+        <publishdateutc>2013-12-12T12:35:00Z</publishdateutc>
+        <title>Gustav III:s katamaran</title>
+        <description>Experiment of Leith var sannolikt det märkligaste skepp som någonsin seglat på Östersjön och Vetenskapsradion Historia uppmärksammar nya rön om hennes historia. Dessutom uppmärksammas det sista slaget mellan ärkefienderna Sverige och Danmark som ägde rum för exakt 200 år sedan. Programledare är Tobias Svanelid.</description>
+        <filesizeinbytes>23174914</filesizeinbytes>
+        <program id="407" name="Vetenskapsradion Historia"/>
+      </listenpodfile>
+      <downloadpodfile id="4789958">
+        <url>http://sverigesradio.se/topsy/ljudfil/4789958.mp3</url>
+        <statkey>/app/avsnitt/p1[k(132)]/vetenskapsradion historia[p(407)]/gustav iii:s mystiska katamaran[e(294056)]</statkey>
+        <duration>1444</duration>
+        <publishdateutc>2013-12-12T12:35:00Z</publishdateutc>
+        <title>Gustav III:s katamaran</title>
+        <description>Experiment of Leith var sannolikt det märkligaste skepp som någonsin seglat på Östersjön och Vetenskapsradion Historia uppmärksammar nya rön om hennes historia. Dessutom uppmärksammas det sista slaget mellan ärkefienderna Sverige och Danmark som ägde rum för exakt 200 år sedan. Programledare är Tobias Svanelid.</description>
+        <filesizeinbytes>23174914</filesizeinbytes>
+        <program id="407" name="Vetenskapsradion Historia"/>
+      </downloadpodfile>
+    </episode>
+    <episode id="290951">
+      <title>Nobels dödliga dynamitfabrik i Skottland</title>
+      <description>Den var på sin tid världens största dynamitfabrik och lade grunden för Nobels förmögenhet. Idag är den ett stycke bortglömd och rostande industrihistoria på den skotska västkusten, där tunga minnen vilar. – 130 människor omkom under tillverkningen av dynamiten, berättar John Millar, lokalhistoriker i Ardeer, där Nobels fabrik en gång låg. Vetenskapsradion Historia uppmärksammar också 100-åringen ”Svenska folkets underbara öden” – Carl Grimbergs superpopulära historieverk som stod i var mans bokhylla. – Grimberg hade ett enormt inflytande över 1900-talets folkliga historieuppfattning, menar historieprofessorn Dick Harrison, som tycker att bokserien är väl värd att läsa igen, men nu som ett dokument över svunna tiders historiesyn. Programledare är Tobias Svanelid.</description>
+      <url>http://sverigesradio.se/sida/avsnitt/290951?programid=407</url>
+      <imageurl>http://sverigesradio.se/diverse/appdata/isidor/images/news_images/407/2216423_512_512.jpg</imageurl>
+      <program id="407" name="Vetenskapsradion Historia"/>
+      <publishdateutc>2013-12-05T12:35:00Z</publishdateutc>
+      <listenpodfile id="4782709">
+        <url>http://sverigesradio.se/topsy/ljudfil/4782709.mp3</url>
+        <statkey>/app/avsnitt/p1[k(132)]/vetenskapsradion historia[p(407)]/vetenskapsradion historia 2013-12-05 13:35[e(290951)]</statkey>
+        <duration>1454</duration>
+        <publishdateutc>2013-12-05T12:35:00Z</publishdateutc>
+        <title>Nobels skotska dynamitfabrik krävde 130 liv</title>
+        <description>I Ardeer i Skottland grundade Alfred Nobel världens största dynamitfabrik - men den hade ett högt pris i människoliv. Vetenskapsradion historia besöker platsen, och uppmärksammar också 100-åringen "Svenska folkets underbara öden" - historieboken som stod i var mans bokhylla. Programledare är Tobias Svanelid.</description>
+        <filesizeinbytes>23330849</filesizeinbytes>
+        <program id="407" name="Vetenskapsradion Historia"/>
+      </listenpodfile>
+      <downloadpodfile id="4782709">
+        <url>http://sverigesradio.se/topsy/ljudfil/4782709.mp3</url>
+        <statkey>/app/avsnitt/p1[k(132)]/vetenskapsradion historia[p(407)]/vetenskapsradion historia 2013-12-05 13:35[e(290951)]</statkey>
+        <duration>1454</duration>
+        <publishdateutc>2013-12-05T12:35:00Z</publishdateutc>
+        <title>Nobels skotska dynamitfabrik krävde 130 liv</title>
+        <description>I Ardeer i Skottland grundade Alfred Nobel världens största dynamitfabrik - men den hade ett högt pris i människoliv. Vetenskapsradion historia besöker platsen, och uppmärksammar också 100-åringen "Svenska folkets underbara öden" - historieboken som stod i var mans bokhylla. Programledare är Tobias Svanelid.</description>
+        <filesizeinbytes>23330849</filesizeinbytes>
+        <program id="407" name="Vetenskapsradion Historia"/>
+      </downloadpodfile>
+    </episode>
+    <episode id="287571">
+      <title>Bland medeltidskyrkans vulvgrafitti</title>
+      <description>Syndiga ynglingar, jättelika penisar, groteska rumphål och grafittivulvor prydde medeltidens kyrkväggar. Vetenskapsradion Historias Tobias Svanelid reser till Linderöds kyrka i Skåne för att se resterna av en medeltida bildkultur som lät sig inspireras av dåtidens mustiga ballader. – Några av medeltidens ballader är grovt vulgära och har inspirerat kyrkmålare med sexuella och groteska motiv, berättar Tommy Olofsson, som tillsammans med Sigurd Kvaernum är aktuella med boken ”Medeltiden i ord och bild”. Dessutom uppmärksammas trenden att historien nu håller på att globaliseras. På Vasamuseet öppnar i helgen utställningen ”Samtidigt” som berättar vad som hände runt om på jorden, samtidigt som Vasaskeppet sjönk. – Om våra besökare förstår att historien är komplex och att det hänt olika saker på olika håll i världen är vi nöjda, menar museichefen Marika Hedin.</description>
+      <url>http://sverigesradio.se/sida/avsnitt/287571?programid=407</url>
+      <imageurl>http://sverigesradio.se/diverse/appdata/isidor/images/news_images/407/2216423_512_512.jpg</imageurl>
+      <program id="407" name="Vetenskapsradion Historia"/>
+      <publishdateutc>2013-11-28T12:35:00Z</publishdateutc>
+      <listenpodfile id="4775109">
+        <url>http://sverigesradio.se/topsy/ljudfil/4775109.mp3</url>
+        <statkey>/app/avsnitt/p1[k(132)]/vetenskapsradion historia[p(407)]/bland medeltidskyrkans vulvgrafitti[e(287571)]</statkey>
+        <duration>1460</duration>
+        <publishdateutc>2013-11-28T12:35:00Z</publishdateutc>
+        <title>Vulvor på medeltidens kyrkväggar</title>
+        <description>Vulvor, penisar och rumpor prydde medeltidens kyrkväggar. Vetenskapsradion Historia besöker kyrkan i Linderöd på jakt efter motiv inspirerade av dåtidens mustigt groteska ballader. Dessutom öppnar Vasamuseet en ny utställning som lyfter blicken från Sverige ut i världen. Programledare är Tobias Svanelid.</description>
+        <filesizeinbytes>23431129</filesizeinbytes>
+        <program id="407" name="Vetenskapsradion Historia"/>
+      </listenpodfile>
+      <downloadpodfile id="4775109">
+        <url>http://sverigesradio.se/topsy/ljudfil/4775109.mp3</url>
+        <statkey>/app/avsnitt/p1[k(132)]/vetenskapsradion historia[p(407)]/bland medeltidskyrkans vulvgrafitti[e(287571)]</statkey>
+        <duration>1460</duration>
+        <publishdateutc>2013-11-28T12:35:00Z</publishdateutc>
+        <title>Vulvor på medeltidens kyrkväggar</title>
+        <description>Vulvor, penisar och rumpor prydde medeltidens kyrkväggar. Vetenskapsradion Historia besöker kyrkan i Linderöd på jakt efter motiv inspirerade av dåtidens mustigt groteska ballader. Dessutom öppnar Vasamuseet en ny utställning som lyfter blicken från Sverige ut i världen. Programledare är Tobias Svanelid.</description>
+        <filesizeinbytes>23431129</filesizeinbytes>
+        <program id="407" name="Vetenskapsradion Historia"/>
+      </downloadpodfile>
+    </episode>
+    <episode id="284609">
+      <title>”Rysslandssvenskarnas historia ett bortglömt trauma”</title>
+      <description>För hundra år sedan var Ryssland framtidslandet som lockade tusentals svenska emigranter och hundratals svenska företag att etablera sig på andra sidan Östersjön. Svenskar byggde framgångsrika liv i Ryssland, och lade grunden för Ryssland som oljenation. Men 1917 tog allt plötsligt slut. – Historien om svenskarna som bodde i Ryssland är ett oskrivet kapitel i Sveriges historia, menar forskarna Helene Carlbäck och Martin Kragh som båda engagerat sig i det nya arkivsamarbete som nu upprättas mellan Sverige och Ryssland. Dessutom uppmärksammas historien på Sveriges mest bortglömda platser. Genom den kraftigt expanderande vindkraftutbyggnaden i landet får arkeologerna nu möjlighet att undersöka områden som vi tidigare vetat mycket litet om, som i fallet med Alared i Halland, där forntidens svenskar levde, begravdes och bröt granater för smyckestillverkning. Programledare är Tobias Svanelid.</description>
+      <url>http://sverigesradio.se/sida/avsnitt/284609?programid=407</url>
+      <imageurl>http://sverigesradio.se/diverse/appdata/isidor/images/news_images/407/2216423_512_512.jpg</imageurl>
+      <program id="407" name="Vetenskapsradion Historia"/>
+      <publishdateutc>2013-11-21T12:35:00Z</publishdateutc>
+      <listenpodfile id="4768298">
+        <url>http://sverigesradio.se/topsy/ljudfil/4768298.mp3</url>
+        <statkey>/app/avsnitt/p1[k(132)]/vetenskapsradion historia[p(407)]/vetenskapsradion historia 2013-11-21 13:35[e(284609)]</statkey>
+        <duration>1477</duration>
+        <publishdateutc>2013-11-21T12:35:00Z</publishdateutc>
+        <title>Rysslandssvenskar och vindkraftarkeologi</title>
+        <description>Mer är 3000 svenskar levde i Ryssland vid tiden före ryska revolutionen, men deras historia har just börjat berättas. Vetenskapsradion Historia uppmärksammar rysslandssvenskarnas bortglömda historia, och träffar dessutom arkeologerna som kartlägger ödemarken där Sveriges nya vindkraftverk nu byggs. Programledare är Tobias Svanelid.</description>
+        <filesizeinbytes>23708308</filesizeinbytes>
+        <program id="407" name="Vetenskapsradion Historia"/>
+      </listenpodfile>
+      <downloadpodfile id="4768298">
+        <url>http://sverigesradio.se/topsy/ljudfil/4768298.mp3</url>
+        <statkey>/app/avsnitt/p1[k(132)]/vetenskapsradion historia[p(407)]/vetenskapsradion historia 2013-11-21 13:35[e(284609)]</statkey>
+        <duration>1477</duration>
+        <publishdateutc>2013-11-21T12:35:00Z</publishdateutc>
+        <title>Rysslandssvenskar och vindkraftarkeologi</title>
+        <description>Mer är 3000 svenskar levde i Ryssland vid tiden före ryska revolutionen, men deras historia har just börjat berättas. Vetenskapsradion Historia uppmärksammar rysslandssvenskarnas bortglömda historia, och träffar dessutom arkeologerna som kartlägger ödemarken där Sveriges nya vindkraftverk nu byggs. Programledare är Tobias Svanelid.</description>
+        <filesizeinbytes>23708308</filesizeinbytes>
+        <program id="407" name="Vetenskapsradion Historia"/>
+      </downloadpodfile>
+    </episode>
+    <episode id="280718">
+      <title>Löskefolkets historia i rampljuset</title>
+      <description>Sveriges historia är inte enbart dess kungars. I en aktuell antologi riktas nu fokus på samhällets mest utsatta genom historien, vilket ger en ny bild av vårt lands senaste 700 år. – Historien handlar oftast om kungar, drottningar och fältherrar, men vi vill skildra människorna som levde på samhällets absoluta botten, historiens trasproletariat, säger Sofia Holmlund, en av redaktörerna till boken ”Usla, elända och arma”. Dessutom uppmärksammas det 150-årsjubilerande talet vid Gettysburg, då Abraham Lincoln definierade vad inbördeskriget egentligen handlade om. Ett tal som definierat USA som nation, enligt historikern Dag Blanck. Programledare är Tobias Svanelid.</description>
+      <url>http://sverigesradio.se/sida/avsnitt/280718?programid=407</url>
+      <imageurl>http://sverigesradio.se/diverse/appdata/isidor/images/news_images/407/2216423_512_512.jpg</imageurl>
+      <program id="407" name="Vetenskapsradion Historia"/>
+      <publishdateutc>2013-11-14T12:35:00Z</publishdateutc>
+      <listenpodfile id="4759303">
+        <url>http://sverigesradio.se/topsy/ljudfil/4759303.mp3</url>
+        <statkey>/app/avsnitt/p1[k(132)]/vetenskapsradion historia[p(407)]/vetenskapsradion historia 2013-11-14 13:35[e(280718)]</statkey>
+        <duration>1465</duration>
+        <publishdateutc>2013-11-14T12:35:00Z</publishdateutc>
+        <title>Tiggarhistoria och Gettysburgtal</title>
+        <description>Ny historisk forskning riktar blicken mot samhällets botten - tiggare, löskefolk och vansinniga - men vad ger det för ny bild av Sveriges historia? Och vad betyder egentligen ett 150-årigt Lincoln-tal för dagens amerikaner? Tobias Svanelid programleder.</description>
+        <filesizeinbytes>23507094</filesizeinbytes>
+        <program id="407" name="Vetenskapsradion Historia"/>
+      </listenpodfile>
+      <downloadpodfile id="4759303">
+        <url>http://sverigesradio.se/topsy/ljudfil/4759303.mp3</url>
+        <statkey>/app/avsnitt/p1[k(132)]/vetenskapsradion historia[p(407)]/vetenskapsradion historia 2013-11-14 13:35[e(280718)]</statkey>
+        <duration>1465</duration>
+        <publishdateutc>2013-11-14T12:35:00Z</publishdateutc>
+        <title>Tiggarhistoria och Gettysburgtal</title>
+        <description>Ny historisk forskning riktar blicken mot samhällets botten - tiggare, löskefolk och vansinniga - men vad ger det för ny bild av Sveriges historia? Och vad betyder egentligen ett 150-årigt Lincoln-tal för dagens amerikaner? Tobias Svanelid programleder.</description>
+        <filesizeinbytes>23507094</filesizeinbytes>
+        <program id="407" name="Vetenskapsradion Historia"/>
+      </downloadpodfile>
+    </episode>
+    <episode id="276741">
+      <title>Hovintrigernas hertiginna</title>
+      <description>Hon bojkottade Gustav III:s fester och anklagades för statskuppsförsök. Hedvig Elisabeth Charlotta var det svenska hovets flitigaste dagboksskrivare, men också en skicklig intrigmakare och politisk aktör i Sveriges stormiga revolutionstid. – Hon utövade sin makt på de informella arenorna, men gjorde det bästa av en ganska komplicerad situation, säger My Hellsing som studerat drottningens politiska ambitioner. Dessutom besöker Tobias Svanelid och historieprofessorn Martin Hårdstedt den svenska historiska kultplatsen vid Lützen för att ta reda på vad Gustav II Adolf egentligen spelar för roll i dagens historiska medvetande.</description>
+      <url>http://sverigesradio.se/sida/avsnitt/276741?programid=407</url>
+      <imageurl>http://sverigesradio.se/diverse/appdata/isidor/images/news_images/407/2216423_512_512.jpg</imageurl>
+      <program id="407" name="Vetenskapsradion Historia"/>
+      <publishdateutc>2013-11-07T12:35:00Z</publishdateutc>
+      <listenpodfile id="4750379">
+        <url>http://sverigesradio.se/topsy/ljudfil/4750379.mp3</url>
+        <statkey>/app/avsnitt/p1[k(132)]/vetenskapsradion historia[p(407)]/hovintrigernas hertiginna[e(276741)]</statkey>
+        <duration>1484</duration>
+        <publishdateutc>2013-11-07T12:35:00Z</publishdateutc>
+        <title>Hovintrigernas hertiginna och Lützenkult</title>
+        <description>Hedvig Elisabeth Charlotta var hertiginnan som ville spela en politisk roll i revolutionernas tidevarv, genom att bojkotta fester och planera statskupper. Vetenskapsradion Historia uppmärksammar aktuell forskning om henne, och om kulten kring 6 november och Gustav II Adolfs död i Lützen. Programledare är Tobias Svanelid.</description>
+        <filesizeinbytes>23816956</filesizeinbytes>
+        <program id="407" name="Vetenskapsradion Historia"/>
+      </listenpodfile>
+      <downloadpodfile id="4750379">
+        <url>http://sverigesradio.se/topsy/ljudfil/4750379.mp3</url>
+        <statkey>/app/avsnitt/p1[k(132)]/vetenskapsradion historia[p(407)]/hovintrigernas hertiginna[e(276741)]</statkey>
+        <duration>1484</duration>
+        <publishdateutc>2013-11-07T12:35:00Z</publishdateutc>
+        <title>Hovintrigernas hertiginna och Lützenkult</title>
+        <description>Hedvig Elisabeth Charlotta var hertiginnan som ville spela en politisk roll i revolutionernas tidevarv, genom att bojkotta fester och planera statskupper. Vetenskapsradion Historia uppmärksammar aktuell forskning om henne, och om kulten kring 6 november och Gustav II Adolfs död i Lützen. Programledare är Tobias Svanelid.</description>
+        <filesizeinbytes>23816956</filesizeinbytes>
+        <program id="407" name="Vetenskapsradion Historia"/>
+      </downloadpodfile>
+    </episode>
+  </episodes>
+</sr>
