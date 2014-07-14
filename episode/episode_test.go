@@ -88,3 +88,21 @@ func TestExtractEpisodesFromXMLInvalidXMLErrorMessage(t *testing.T) {
 		t.Errorf("Unexpected error message.\nExpected: %v\nActual: %v", expected, actual)
 	}
 }
+
+// TODO: This will change. Use dependency injection.
+func TestGetEpisodes(t *testing.T) {
+	expected := Episode{
+		ExternalId:   400445,
+		Title:        "DIN PLAYLIST: Nadine Appelqvist med låtarna som ligger närmst hjärtat",
+		Description:  "I veckans upplaga av Din Playlist är det Nadine Appelqvist som plockat ihop en timme musik. Nadine är även känd som vinnare av Musikguiden i P3:s fanquiz om Kent tidigare i somras.",
+		PublishedUTC: "2014-07-14T20:03:00Z",
+		Duration:     3420,
+	}
+	episodeList, _ := GetEpisides("Musikguiden i P3 ", "P3")
+
+	actual := episodeList[0]
+
+	if !reflect.DeepEqual(expected, actual) {
+		t.Errorf("Resulting episode not matching expected.\nExpected: %v\nActual: %v", expected, actual)
+	}
+}

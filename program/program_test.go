@@ -63,3 +63,33 @@ func TestExtractProgramsFromXMLInvalidXML(t *testing.T) {
 	}
 
 }
+
+func TestGetPrograms(t *testing.T) {
+	expected := Program{ExternalId: 1646,
+		Name:        "P3 Nyheter",
+		Description: "Berättar vad som händer i Sverige och världen och håller extra koll på det som berör unga människor.",
+		Image:       "http://sverigesradio.se/sida/images/1646/3184974_512_512.jpg?preset=api-default-square",
+	}
+
+	programList, _ := GetPrograms("P3")
+
+	actual := programList[0]
+
+	if !reflect.DeepEqual(expected, actual) {
+		t.Errorf("Resulting station not matching expected.\nExpected: %v\nActual: %v", expected, actual)
+	}
+}
+
+func TestGetProgram(t *testing.T) {
+	expected := Program{ExternalId: 4067,
+		Name:        "Musikguiden i P3 ",
+		Description: "Vi spelar den bästa nya musiken, bred och smal, kända hits och välbevarade hemligheter. I Musikguiden i P3 får du träffa artisterna, höra de nya låtarna och se hela sammanhanget. Ungefär som i naturfilm, fast med musik. Typ.",
+		Image:       "http://sverigesradio.se/sida/images/4067/2472633_512_512.jpg?preset=api-default-square",
+	}
+
+	actual, _ := GetProgram("Musikguiden i P3 ", "P3")
+
+	if !reflect.DeepEqual(expected, actual) {
+		t.Errorf("Resulting program not matching expected.\nExpected: %v\nActual: %v", expected, actual)
+	}
+}

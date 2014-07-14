@@ -3,6 +3,10 @@ package episode
 import (
 	"encoding/xml"
 	"errors"
+	"fmt"
+	"github.com/joarleth/sverigesradio/program"
+	"io/ioutil"
+	"net/http"
 )
 
 type Root struct {
@@ -16,6 +20,35 @@ type Episode struct {
 	Description  string `xml:"description"`
 	PublishedUTC string `xml:"publishdateutc"`
 	Duration     int    `xml:"broadcast>playlist>duration"`
+}
+
+func GetEpisides(programName string, stationName string) ([]Episode, error) {
+	program, _ := program.GetProgram(programName, stationName)
+
+	episodesUrl := fmt.Sprintf("http://api.sr.se/api/v2/episodes/index?programid=%d", program.ExternalId)
+
+	println(episodesUrl)
+
+	resp, httpErr := http.Get(episodesUrl)
+	defer resp.Body.Close()
+
+	if httpErr != nil {
+		return []Episode{}, errors.New("Get request failed in GetEpisides.")
+	}
+
+	if !(resp.StatusCode == http.StatusOK || resp.StatusCode == http.StatusNotModified) {
+		return []Episode{}, errors.New(fmt.Sprintf("GET request in GetEpisides returned status %d rather than %d or %d", resp.StatusCode, http.StatusOK, http.StatusNotModified))
+	}
+
+	// Only returns error if bytes Buffer becomes too large. How can this be tested?
+	body, ioutilErr := ioutil.ReadAll(resp.Body)
+
+	if ioutilErr != nil {
+		return []Episode{}, errors.New("ioutil.ReadAll failed in GetEpisides.")
+	}
+	episodeList, _ := ExtractEpisodesFromXML(body)
+
+	return episodeList, nil
 }
 
 func ExtractEpisodesFromXML(xml_data []byte) ([]Episode, error) {
