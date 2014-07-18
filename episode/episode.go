@@ -15,11 +15,12 @@ type Root struct {
 }
 
 type Episode struct {
-	ExternalId   int    `xml:"id,attr"`
-	Title        string `xml:"title"`
-	Description  string `xml:"description"`
-	PublishedUTC string `xml:"publishdateutc"`
-	Duration     int    `xml:"broadcast>playlist>duration"`
+	ExternalId        int    `xml:"id,attr"`
+	ExternalProgramId int    `xml:"-"`
+	Title             string `xml:"title"`
+	Description       string `xml:"description"`
+	PublishedUTC      string `xml:"publishdateutc"`
+	Duration          int    `xml:"broadcast>playlist>duration"`
 }
 
 func GetEpisides(programName string, stationName string) ([]Episode, error) {
@@ -47,6 +48,10 @@ func GetEpisides(programName string, stationName string) ([]Episode, error) {
 		return []Episode{}, errors.New("ioutil.ReadAll failed in GetEpisides.")
 	}
 	episodeList, _ := ExtractEpisodesFromXML(body)
+
+	for i := range episodeList {
+		episodeList[i].ExternalProgramId = program.ExternalId
+	}
 
 	return episodeList, nil
 }

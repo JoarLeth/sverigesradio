@@ -31,11 +31,12 @@ func TestExtractEpisodesFromXMLFirstEpisodeCorrect(t *testing.T) {
 	episode_list, _ := ExtractEpisodesFromXML(xml_data)
 
 	expected := Episode{
-		ExternalId:   298577,
-		Title:        "Kvinnokamp för skilsmässor och myndighet",
-		Description:  "Vid sekelskiftet 1800 stod kvinnokampen om skilsmässor och rätten att bli sedd som en myndig person. Vetenskapsradion Historia träffar två forskare som undersökt hur ett fåtal kvinnor gick i bräschen för emancipationen i Sverige. – När det är maskerad kan jag inte hålla på mig, ska adelsdamen Aurora de Geer ha sagt om sitt frisläppta leverne. Historikern Carin Bergström har undersökt hur Aurora och andra högadelsdamer letade efter kryphål i lagen för att lyckas skilja sig med sina män. Bland annat var det vanligt att man hittade på otrohetsaffärer för att övertyga domstolarna om att godkänna en skilsmässa. Under 1800-talet var dessutom de flesta kvinnor omyndiga, och endast genom att söka dispens hos kungen kunde en ogift kvinna få tillgång till sitt arv. Historikern Britt Liljewall har undersökt de kvinnor som vågade trotsa normerna och ta strid för kvinnomyndigheten. – Med tiden kom frågan om myndighet att handla mindre om ekonomi och mer om identitet, säger hon. Programledare är Tobias Svanelid. Detta program är en repris från den 10 oktober 2013.",
-		PublishedUTC: "2014-01-02T12:35:00Z",
-		Duration:     1495,
+		ExternalId:        298577,
+		ExternalProgramId: 0,
+		Title:             "Kvinnokamp för skilsmässor och myndighet",
+		Description:       "Vid sekelskiftet 1800 stod kvinnokampen om skilsmässor och rätten att bli sedd som en myndig person. Vetenskapsradion Historia träffar två forskare som undersökt hur ett fåtal kvinnor gick i bräschen för emancipationen i Sverige. – När det är maskerad kan jag inte hålla på mig, ska adelsdamen Aurora de Geer ha sagt om sitt frisläppta leverne. Historikern Carin Bergström har undersökt hur Aurora och andra högadelsdamer letade efter kryphål i lagen för att lyckas skilja sig med sina män. Bland annat var det vanligt att man hittade på otrohetsaffärer för att övertyga domstolarna om att godkänna en skilsmässa. Under 1800-talet var dessutom de flesta kvinnor omyndiga, och endast genom att söka dispens hos kungen kunde en ogift kvinna få tillgång till sitt arv. Historikern Britt Liljewall har undersökt de kvinnor som vågade trotsa normerna och ta strid för kvinnomyndigheten. – Med tiden kom frågan om myndighet att handla mindre om ekonomi och mer om identitet, säger hon. Programledare är Tobias Svanelid. Detta program är en repris från den 10 oktober 2013.",
+		PublishedUTC:      "2014-01-02T12:35:00Z",
+		Duration:          1495,
 	}
 	actual := episode_list[0]
 
@@ -92,17 +93,18 @@ func TestExtractEpisodesFromXMLInvalidXMLErrorMessage(t *testing.T) {
 // TODO: This will change. Use dependency injection.
 func TestGetEpisodes(t *testing.T) {
 	expected := Episode{
-		ExternalId:   400445,
-		Title:        "DIN PLAYLIST: Nadine Appelqvist med låtarna som ligger närmst hjärtat",
-		Description:  "I veckans upplaga av Din Playlist är det Nadine Appelqvist som plockat ihop en timme musik. Nadine är även känd som vinnare av Musikguiden i P3:s fanquiz om Kent tidigare i somras.",
-		PublishedUTC: "2014-07-14T20:03:00Z",
-		Duration:     3420,
+		ExternalId:        400496,
+		ExternalProgramId: 4067,
+		Title:             "Musikguiden i P3:s officiella halvårslista",
+		Description:       "Våren har präglats av ny bra musik i överflöd, och vi gillar mycket. Så mycket att när vi skulle sätta ihop en topp 50-lista över vad vi gillar blev det tryckt stämning på redaktionen. Efter ett bra tag var vi dock överens, och i kväll räknar vi under dryga två timmar upp vår topplista från plats 50, ända upp till nummer ett.",
+		PublishedUTC:      "2014-07-17T15:30:00Z",
+		Duration:          9000,
 	}
 	episodeList, _ := GetEpisides("Musikguiden i P3 ", "P3")
 
 	actual := episodeList[0]
 
 	if !reflect.DeepEqual(expected, actual) {
-		t.Errorf("Resulting episode not matching expected.\nExpected: %v\nActual: %v", expected, actual)
+		t.Errorf("Resulting episode not matching expected.\nExpected: %v\nActual:   %v", expected, actual)
 	}
 }
